@@ -35,5 +35,7 @@ plugins:
         name: card
       paging: false
       show_total: false
+      features:
+        tags: {}
       dirs:
         - log

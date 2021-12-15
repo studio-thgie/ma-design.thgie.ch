@@ -3,7 +3,9 @@ title: "Evaluation of Expert Workshop"
 date: 2021-02-18
 header: "/assets/images/IMG_20210213_142949.jpg"
 description: "The main goal of the workshop, to have a workable idea for a prototype, was missed. That said, the stories are rich in references, that in combination with the emotionally durable design framework can give rise to a prototype. I think I will work something out and make a proposition of a prototype to the participants that they can give a feedback on then."
-tags: workshop, analysis
+tags:
+    - workshop
+    - analysis
 ---
 # Evaluation of Expert Workshop
 Feb 18, 2021
