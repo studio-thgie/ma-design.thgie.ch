@@ -1,5 +1,11 @@
 site_name: Talking (to) Things
 
+nav:
+  - Research Log: 'Research Log.md'
+  - Findings and Output: 'Findings and Output.md'
+  - Data: 'Data.md'
+  - Context: 'Context.md'
+
 theme:
     name: null
     custom_dir: 'ttt_theme/'
