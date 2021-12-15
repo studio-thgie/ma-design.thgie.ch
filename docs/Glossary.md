@@ -1,6 +1,6 @@
 ---
 title: Glossary
-template: blog
+template: blog.html
 source: research/glossary
 ---
 # Glossary

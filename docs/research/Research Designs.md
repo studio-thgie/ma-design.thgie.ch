@@ -1,6 +1,6 @@
 ---
 title: Research Designs
-template: blog
+template: blog.html
 source: research/designs
 ---
 # Research Designs

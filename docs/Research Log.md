@@ -1,6 +1,6 @@
 ---
 title: Research Log
-template: blog
+template: blog.html
 source: log
 ---
 # Research Log

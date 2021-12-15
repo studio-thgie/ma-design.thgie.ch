@@ -1,6 +1,6 @@
 ---
 title: Participants
-template: blog
+template: blog.html
 source: data/people
 ---
 # Participants
