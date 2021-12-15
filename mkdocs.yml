@@ -1,26 +1,8 @@
-site_name: obsidian-mkdocs template
+site_name: Talking (to) Things
 
 theme:
-    name: 'material'
-    palette:
-
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: pink
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: pink
-      accent: blue
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+    name: null
+    custom_dir: 'ttt_theme/'
 
 # Extensions
 markdown_extensions:
