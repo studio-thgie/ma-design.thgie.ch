@@ -7,10 +7,6 @@ nav:
   - Data: 'Data.md'
   - Context: 'Context.md'
 
-log:
-  - Abstract for Thesis: 'log/Abstract for Thesis.md'
-  - Rotterdam Fieldtrip: 'log/Rotterdam Fieldtrip.md'
-
 theme:
     name: null
     custom_dir: 'ttt_theme/'
@@ -34,3 +30,6 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks 
+  - blogging:
+      dirs:
+        - log

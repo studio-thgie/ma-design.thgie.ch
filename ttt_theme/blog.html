@@ -25,7 +25,9 @@
 
     <main>
         {{ page.content }}
-        
+
+        {{ blog_content }}
+
         {% if log|length>1 %}
             <ul class="blog">
                 {% for entry in log %}
