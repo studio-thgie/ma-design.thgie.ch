@@ -1,3 +1,6 @@
+---
+title: Home
+---
 # Talking (to) Things
 ## An exploration of voice assistance technologies and their conversational aspect in the context of inclusion and privacy
 

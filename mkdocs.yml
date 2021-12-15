@@ -1,5 +1,5 @@
-site_name: Talking (to) Things
-site_url: https://thgie.github.io/ttt-testing/
+site_name: 'Talking (to) Things'
+site_url: 'https://thgie.github.io/ttt-testing/'
 
 nav:
   - Research Log: 'Research Log.md'
