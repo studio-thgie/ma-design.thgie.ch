@@ -36,6 +36,8 @@ plugins:
       size: 99
       paging: false
       show_total: false
+      sort:
+        by: date
       features:
         tags: {}
       dirs:
