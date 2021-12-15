@@ -12,6 +12,10 @@ h1, h2, h3 {
     font-weight: 700;
 }
 
+.headerlink {
+    display: none;
+}
+
 nav {
     font-size: 1.25rem;
     font-style: italic;
