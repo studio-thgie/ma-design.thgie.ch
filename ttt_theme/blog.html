@@ -10,8 +10,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,400;0,700;1,100;1,400;1,700&family=Space+Grotesk:wght@400;700&display=swap" rel="stylesheet"> 
 
-    <link rel="stylesheet" href="assets/normalize.css">
-    <link rel="stylesheet" href="assets/archive.css">
+    <link rel="stylesheet" href="{{ config.site_url }}assets/normalize.css">
+    <link rel="stylesheet" href="{{ config.site_url }}assets/archive.css">
 
 </head>
 <body>
@@ -25,6 +25,7 @@
 
     <main>
         {{ page.content }}
+        
         {% if log|length>1 %}
             <ul class="blog">
                 {% for entry in log %}
