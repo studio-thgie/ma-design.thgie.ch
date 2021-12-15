@@ -1,0 +1,10 @@
+# It's Alive An Empirical Study on Animism and Animacy in Product Design - Michael Leube
+[Word](/assets/images/Leube_Its Alive An Empirical Study on Animism and Animacy in Product Design.docx)
+
+## Abstract
+The attachment people experience towards products has been the topic of many studies but very little has been written on animism and product attachment. Here it is argued that in order to grant a product animated qualities, the user actually requires animistic thinking. It is necessary to translate perceivable characteristics of animacy into product language. This is the basis for empirically testing the mutually dependent relationship (of animism and animacy) using six separate experiments. The hypotheses to be tested assume that a product featuring a defined characteristic is perceived as more alive or more animated than the same product lacking such a characteristic. It is argued here that more product attachment can be achieved not simply through more things “alive” but by actually encouraging a new animism.
+
+Keywords: animism, animacy, product design, product attachment 
+
+## Introduction
+Our modern consumerism leads to shorter lifespans of products in most categories since older versions of the products are often replaced while still functioning and new products are bought following the slogan „the cheaper, the better“. This is not only the result of planned obsolescence (Packard 1960), but also of obsolescence of desirability. To avoid ecological disaster, some approaches have been suggested: The Cradle to Cradle concept (McDonough & Braungart 2010, 2013) as well as Circular Product Design (Bakker, 2014) are amongst the most promising. Although such considerations are indispensable for a needed design revolution, this paper argues for more attachment to the things we already have. As the things around us become “alive”, is it not feasible to expect more emotionality? Thus, this paper is influenced by Jonathan Chapman’s theory of emotionally durable design where the relationships between the consumer and a product are explored (Chapman 2005, 2009, 2015).

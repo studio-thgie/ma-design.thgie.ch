@@ -1,0 +1,7 @@
+[GH Mini plötzlich auf englisch? - GAssistant.de](https://www.gassistant.de/forum/gh-mini-ploetzlich-auf-englisch-71)
+
+Di 7. Nov 2017, 06:19
+
+Guten Morgen, gestern Abend als ich ins Bett ging und den Befehl auf deutsch gegeben hatte alle Lampen auszuschalten hat sie dies auch gemacht und die Ausführung auch auf deutsch bestätigt. Es ist damit auszuschliessen das nach mir noch irgendjemand mit dem GH "rumgespielt" hat. Ich bin heute morgen auch der erste der wach war und als ich wie jeden Morgen "Hey Google überrasche mich" gesagt hatte, antwortete sie mir in englisch! das sie mich nicht verstehen würde aber ihr Team jeden Tag hilft u.s.w. ihr kennt das ja ![:)](https://www.gassistant.de/forum/images/smilies/emojione/1f604.svg "smiling face with open mouth and smiling...") in der Homeapp ist aber deutsch eingestellt. Wie bekomme ich GH wieder dazu auf deutsch zu reagieren und auch zu antworten! Ich hatte auch schon testweise eine andere Sprache eingestellt aber sie antwortet immer auf englisch. Ich hatte auch schon die Idee " Hey Google set Language to German" die Antwort von ihr"The official Language of Germany is german" in einer anderen Situation hätte ich drüber lachen Können. Wenn ich mit dem Smartphone Google frage, geht es auf deutsch. Was muss ich also tun das GH mich wieder versteht?
+
+#experience-report

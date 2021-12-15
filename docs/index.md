@@ -1,11 +1,6 @@
-# Obsidian Notes
+# Talking (to) Things
+## An exploration of voice assistance technologies and their conversational aspect in the context of inclusion and privacy
 
-Publish your public notes with MkDocs
+*This is the ever expanding project documentation and archive (as of March 2021) of a research project by [Adrian Demleitner](https://thgie.ch) within the [Master of Design](https://www.hkb-ma-design.ch/en/home-118.html) at the HKB in Bern, Switzerland. It contains the data points, the coding and analysis of these, the theoretical base as well as context and the research log.*
 
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+This archive is mirrored on the [github repository thgie/Talking-to-Things](https://github.com/thgie/Talking-to-Things).
