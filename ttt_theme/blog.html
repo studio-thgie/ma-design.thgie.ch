@@ -25,6 +25,17 @@
 
     <main>
         {{ page.content }}
+        {% if log|length>1 %}
+            <ul class="blog">
+                {% for entry in log %}
+                    <li>
+                        <a href="{{ entry.url|url }}" target="_self">
+                            <span class="entry-title">{{ entry.title }}</span>
+                        </a>
+                    </li>
+                {% endfor %}
+            </ul>
+        {% endif %}
     </main>
 
 </body>
