@@ -33,6 +33,7 @@ plugins:
   - blogging:
       theme:
         name: card
+      size: 99
       paging: false
       show_total: false
       features:
