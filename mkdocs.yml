@@ -31,5 +31,9 @@ plugins:
   - search
   - roamlinks 
   - blogging:
+      theme:
+        name: card
+      paging: false
+      show_total: false
       dirs:
         - log
