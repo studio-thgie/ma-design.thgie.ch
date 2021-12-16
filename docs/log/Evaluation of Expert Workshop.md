@@ -39,11 +39,11 @@ Not having any input on the form (aesthetics) of an animist approach to VAs leav
 - [[Expert Workshop - Story 4]]
 
 ## Photos of workshop
-![IMG_20210213_100207.jpg](assets/images/IMG_20210213_100207.jpg)
-![IMG_20210213_133143.jpg](assets/images/IMG_20210213_133143.jpg)
-![IMG_20210213_133153.jpg](assets/images/IMG_20210213_133153.jpg)
-![IMG_20210213_133854.jpg](assets/images/IMG_20210213_133854.jpg)
-![IMG_20210213_142949.jpg](assets/images/IMG_20210213_142949.jpg)
-![IMG_20210213_142958.jpg](assets/images/IMG_20210213_142958.jpg)
-![IMG_20210213_160054.jpg](assets/images/IMG_20210213_160054.jpg)
-![IMG_20210213_173621.jpg](assets/images/IMG_20210213_173621.jpg)
+![IMG_20210213_100207.jpg](/assets/images/IMG_20210213_100207.jpg)
+![IMG_20210213_133143.jpg](/assets/images/IMG_20210213_133143.jpg)
+![IMG_20210213_133153.jpg](/assets/images/IMG_20210213_133153.jpg)
+![IMG_20210213_133854.jpg](/assets/images/IMG_20210213_133854.jpg)
+![IMG_20210213_142949.jpg](/assets/images/IMG_20210213_142949.jpg)
+![IMG_20210213_142958.jpg](/assets/images/IMG_20210213_142958.jpg)
+![IMG_20210213_160054.jpg](/assets/images/IMG_20210213_160054.jpg)
+![IMG_20210213_173621.jpg](/assets/images/IMG_20210213_173621.jpg)

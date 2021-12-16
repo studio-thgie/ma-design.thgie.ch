@@ -21,7 +21,7 @@ Für den deutschsprachigen Raum ist die [Smart Speaker Studie von 2020 von Beyto
 -   Die Nutzung von [Voice App](https://sprachassistenten.marketing/grundlagen/voice-apps-was-ist-das/)s hat leicht zugenommen und Besitzer mehrere Smart Speaker nutzen diese auch häufiger. Jeder Dritte (33%) sucht aktiv danach, jeder Vierte (24%) werden durch Werbung darauf aufmerksam.
 -   Besonders interessant (insb. für Voice App-Anbieter): der Hauptgrund, KEINE Voice App zu nutzen, ist „zu wenig Information darüber“ (52%), während „schlechte Qualität“ nur bei 16% der Grund für Nicht-Nutzung ist
 
-Studie zur Einsicht als PDF: [Beyto Smart Speaker Studie 2020 Studienreport](assets/files/Beyto_Smart_Speaker_Studie_2020_Studienreport.pdf)
+Studie zur Einsicht als PDF: [Beyto Smart Speaker Studie 2020 Studienreport](/assets/files/Beyto_Smart_Speaker_Studie_2020_Studienreport.pdf)
 
 Weitere Studien zum Markt von Sprachassistenten im deutschen Raum sind hier zu finden [https://sprachassistenten.marketing/allgemein/studien-zu-sprachassistenten-nutzung-marktanteile-marktfuehrer-aussichten/](https://sprachassistenten.marketing/allgemein/studien-zu-sprachassistenten-nutzung-marktanteile-marktfuehrer-aussichten/)
 
