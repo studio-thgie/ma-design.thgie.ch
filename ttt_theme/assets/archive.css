@@ -220,6 +220,7 @@ div.pages .page {
 div.pages .page li {
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
     transition: .25s;
+    padding-bottom: 20px;
 }
 div.pages .page li.subtitle {
     box-shadow: none;
@@ -263,6 +264,9 @@ div.pages .page .entry-desc {
 }
 
 @media (max-width: 768px) {
+    div.pages .page {
+        grid-template-columns: 1fr;
+    }
     div.pages .page .entry-header {
         width: 100%;
     }
