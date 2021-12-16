@@ -1,5 +1,5 @@
 site_name: 'Talking (to) Things'
-site_url: 'http://ttt.thgie.ch'
+site_url: 'https://ttt.thgie.ch'
 
 nav:
   - Research Log: 'Research Log.md'
