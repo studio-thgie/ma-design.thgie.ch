@@ -1,0 +1,25 @@
+{% extends "blog.html" %}
+
+{% macro render_blog(title, description, time, url, page) -%}
+<li>
+    <a href="{{ url }}" target="_self">
+    {% if page.header %}
+        <div class="entry-header" style="background-image: url({{ page.header }});">
+            <img class="entry-header-img" src="{{ page.header }}">
+        </div>
+    {% endif %}
+    {% if page.date %}
+        <span class="entry-date">{{ page.date }}</span>
+    {% endif %}
+    <span class="entry-title"><?= $entry['title'] ?></span>
+    {% if description %}
+        <span class="entry-desc">{{ description }}</span>
+    {% endif %}
+    {% if show_tags and "tags" in page.meta %}
+        {% call render_tags(page.meta["tags"], index_url) %}
+        {% endcall %}
+    {% endif %}
+    </a>
+</li>
+{{ caller() }}
+{%- endmacro %}

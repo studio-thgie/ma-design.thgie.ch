@@ -31,8 +31,7 @@ plugins:
   - search
   - roamlinks 
   - blogging:
-      theme:
-        name: card
+      template: 'ttt_theme/custom-blog.html'
       size: 99
       paging: false
       show_total: false
