@@ -8,11 +8,11 @@
         </div>
     {% endif %}
     {% if page.meta['date'] %}
-        <a href="{{ url }}" target="_self">
-            <span class="entry-date">{{ page.meta['date'] }}</span>
-        </a>
+            <span class="entry-date">{{ page.meta['date'].strftime('%d. %M %Y') }}</span>
     {% endif %}
-    <span class="entry-title">{{ title }}</span>
+    <a href="{{ url }}" target="_self">
+        <span class="entry-title">{{ title }}</span>
+    </a>
     {% if description %}
         <span class="entry-desc">{{ description }}</span>
     {% endif %}
@@ -20,7 +20,7 @@
         {% call render_tags(page.meta["tags"], index_url) %}
         {% endcall %}
     {% endif %}
-    <a href="{{ url }}" target="_self" class="underline">
+    <a href="{{ url }}" target="_self">
         <span>Continue reading…</span>
     </a>
 </li>

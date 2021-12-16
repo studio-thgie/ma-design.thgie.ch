@@ -234,11 +234,6 @@ div.pages .page li:not(.subtitle):hover {
     transform: scale(1.0125);
     box-shadow: 0 15px 25px rgba(0, 0, 0, 0.05);
 }
-div.pages .page li > a {
-    display: inline-block;
-    height: 100%;
-    text-decoration: none;
-}
 div.pages .page .entry-header {
     width: 100%;
     height: 300px;
