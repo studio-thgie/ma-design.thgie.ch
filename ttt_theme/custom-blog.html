@@ -11,7 +11,7 @@
     {% if page.date %}
         <span class="entry-date">{{ page.date }}</span>
     {% endif %}
-    <span class="entry-title"><?= $entry['title'] ?></span>
+    <span class="entry-title">{{ title }}</span>
     {% if description %}
         <span class="entry-desc">{{ description }}</span>
     {% endif %}
