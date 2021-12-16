@@ -2,14 +2,15 @@
 
 {% macro render_blog(title, description, time, url, page) -%}
 <li>
-    <a href="{{ url }}" target="_self">
-    {% if page.header %}
-        <div class="entry-header" style="background-image: url({{ page.header }});">
-            <img class="entry-header-img" src="{{ page.header }}">
+    {% if page.meta['header'] %}
+        <div class="entry-header" style="background-image: url({{ page.meta['header'] }});">
+            <img class="entry-header-img" src="{{ page.meta['header'] }}">
         </div>
     {% endif %}
-    {% if page.date %}
-        <span class="entry-date">{{ page.date }}</span>
+    {% if page.meta['date'] %}
+        <a href="{{ url }}" target="_self">
+            <span class="entry-date">{{ page.meta['date'] }}</span>
+        </a>
     {% endif %}
     <span class="entry-title">{{ title }}</span>
     {% if description %}
@@ -19,6 +20,8 @@
         {% call render_tags(page.meta["tags"], index_url) %}
         {% endcall %}
     {% endif %}
+    <a href="{{ url }}" target="_self" class="underline">
+        <span>Continue reading…</span>
     </a>
 </li>
 {{ caller() }}
