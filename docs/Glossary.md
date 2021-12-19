@@ -27,4 +27,4 @@ The study of technology in terms of the relations between human beings and techn
 VUI make it possible for users to interact with a device or an app through voice commands.
 
 ## [[Voice-Assistant (VA)]]
-Voice assistants are complex technologies that create a dialogical, spoken interface with computational ressources. 
+Voice assistants are complex technologies that create a dialogical, spoken interface with computational ressources.
