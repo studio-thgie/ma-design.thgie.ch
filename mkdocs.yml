@@ -2,7 +2,7 @@ site_name: 'Talking (to) Things'
 site_url: 'https://ttt.thgie.ch'
 
 nav:
-  - Research Log: 'Research Log.md'
+  - Journal: 'Journal.md'
   - Findings and Output: 'Findings and Output.md'
   - Data: 'Data.md'
   - Context: 'Context.md'
