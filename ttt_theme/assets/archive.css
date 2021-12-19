@@ -131,24 +131,37 @@ p {
     }
 }
 
-/* typo */
-main a {
+/* anchor styles */
+main p a,
+main ul a,
+main ol a {
     position: relative;
     display: inline-block;
     z-index: 10;
 }
+main p a:hover,
+main ul a:hover,
+main ol a:hover {
+    color: white;
+}
 main p a:before,
-main ul a:before {
+main ul a:before,
+main ol a:before {
     content: '';
-    width: calc(100% + 20px);
+    width: calc(100% + 30px);
     height: 100%;
     border: 1px solid #828282;
     position: absolute;
-    left: -10px;
+    left: -15px;
     top: 0;
     border-radius: 20px;
-    z-index: 5;
     text-decoration: none;
+    z-index: -1;
+}
+main p a:before,
+main ul a:before,
+main ol a:before {
+    background: #181818;
 }
 
 /* layout */
