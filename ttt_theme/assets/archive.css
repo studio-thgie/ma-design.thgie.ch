@@ -137,7 +137,8 @@ main a {
     display: inline-block;
     z-index: 10;
 }
-main a:before {
+main p a:before,
+main ul a:before {
     content: '';
     width: calc(100% + 20px);
     height: 100%;
@@ -218,8 +219,10 @@ ul.nav-h {
     list-style: none;
     list-style-position: inside;
 }
-
 ul.nav-h li {
+    margin-left: .25rem;
+}
+ul.nav-h li a {
     position: relative;
     top: 0;
     display: inline-block;
@@ -227,19 +230,14 @@ ul.nav-h li {
     color: white;
     padding: 1px 14px;
     border-radius: 20px;
-    font-size: 1rem;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.125);
     transition: 0.25s;
-}
-ul.nav-h li:hover {
-    top: -3px;
-    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.075);
-}
-ul.nav-h li a {
-    color: white;
     text-decoration: none;
 }
-ul.nav-h li a:hover {
+ul.nav-h a:hover {
+    color: white;
+    top: -2px;
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.075);
     text-decoration: none;
 }
 
