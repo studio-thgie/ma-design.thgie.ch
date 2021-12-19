@@ -142,12 +142,13 @@ main ul a:before {
     content: '';
     width: calc(100% + 20px);
     height: 100%;
-    border: 1px solid #cecece;
+    border: 1px solid #828282;
     position: absolute;
     left: -10px;
     top: 0;
     border-radius: 20px;
     z-index: 5;
+    text-decoration: none;
 }
 
 /* layout */
@@ -220,6 +221,7 @@ ul.nav-h {
     list-style-position: inside;
 }
 ul.nav-h li {
+    display: inline-block;
     margin-left: .25rem;
 }
 ul.nav-h li a {
