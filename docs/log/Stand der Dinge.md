@@ -56,4 +56,4 @@ Dazu habe ich in einer kurzen schriftlichen Arbeit (7500 Zeichen) und einem 20 m
 
 #research-log #website
 
-[[Research Log]] 
+[[Journal]] 

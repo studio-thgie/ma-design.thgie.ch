@@ -58,4 +58,4 @@ The spirit of animism is still alive within the core of my research question or 
 
 #research-log #website
 
-[[Research Log]]
+[[Journal]]

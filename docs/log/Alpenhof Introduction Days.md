@@ -34,4 +34,4 @@ Ich bin gespannt, wie sich die Personen und Projekte (inklusive mir) in den näc
 
 ---
 
-[[Research Log]] 
+[[Journal]] 

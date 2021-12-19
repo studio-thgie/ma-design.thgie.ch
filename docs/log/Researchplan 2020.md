@@ -37,4 +37,4 @@ Ansatz: Designforschung, anthropologische Forschung
 Methoden: Beobachtung, Interviews, (Cultural Probes)
 Zielgruppe: 5 Teilnehmer*innen aus AP1 sowie eine Kontrollgruppe
 
-[[Research Log]]
+[[Journal]]

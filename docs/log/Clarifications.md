@@ -29,4 +29,4 @@ Let's roll with this for a moment.
 
 #research-log #website
 
-[[Research Log]] 
+[[Journal]] 

@@ -26,4 +26,4 @@ Das hier war die Ausschreibung: [[Suche Teilnehmer_innen]]
 
 #research-log #website
 
-[[Research Log]]
+[[Journal]]

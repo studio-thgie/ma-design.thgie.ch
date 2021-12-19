@@ -49,4 +49,4 @@ I'm like, tired.
 
 #research-log #website
 
-[[Research Log]] 
+[[Journal]] 

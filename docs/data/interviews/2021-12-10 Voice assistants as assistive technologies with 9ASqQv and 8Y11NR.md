@@ -2,7 +2,7 @@
 
 With [[Person 9ASqQv]] and [[Person 8Y11NR]]
 
-Die war ein Folgeinterview mit dem Schweizerischen Blindenverband, welches wie beim ersten Mal nicht aufzeichenbar war. Grundlegend ging es um die Ähnlichkeiten aber auch Differenzen zwischen eher traditionellen Hilfstechnologien und Sprachassistenten.
+Dies war ein Folgeinterview mit dem Schweizerischen Blindenverband, welches wie beim ersten Mal nicht aufzeichenbar war. Grundlegend ging es um die Ähnlichkeiten aber auch Differenzen zwischen eher traditionellen Hilfstechnologien und Sprachassistenten.
 
 ## Fragen
 *traditional assistive tech*

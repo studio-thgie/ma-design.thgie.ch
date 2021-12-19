@@ -9,4 +9,4 @@ My last coaching session brought some clarification into how I should formulate 
 
 #research-log #website
 
-[[Research Log]]
+[[Journal]]

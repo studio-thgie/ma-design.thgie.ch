@@ -88,4 +88,4 @@ The experimental approach was very interesting and I would love to use this meth
 
 #research-log #website
 
-[[Research Log]]
+[[Journal]]

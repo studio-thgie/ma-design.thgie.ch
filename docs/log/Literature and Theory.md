@@ -30,4 +30,4 @@ All over all, after all this reading, I believe it's safe to say, that there are
 
 #research-log #website
 
-[[Research Log]]
+[[Journal]]

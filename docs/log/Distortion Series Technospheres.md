@@ -52,4 +52,4 @@ https://www.hesge.ch/head/en/event/2020/distortion-series-technospheres
 
 ![Screenshot_2020-01-22 Distortion Series Technosphere_s_ HEAD.png](/assets/images/cd7683a3d7704ef1bc06b5320d9f5f0a.png)
 
-[[Research Log]] 
+[[Journal]] 

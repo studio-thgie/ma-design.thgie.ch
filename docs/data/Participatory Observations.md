@@ -1,5 +1,4 @@
 # Observations
-
 These are the notes from observation session, where I could be present for a longer period of time.
 
 - [[2021-01-22 Lunchtime, Homeoffice]]
