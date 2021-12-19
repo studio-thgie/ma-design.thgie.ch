@@ -40,4 +40,4 @@ plugins:
       features:
         tags: {}
       dirs:
-        - log
+        - journal

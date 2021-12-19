@@ -1,19 +1,12 @@
 # Voice Assistant Basics 
 *Conducted in Swiss-German*
 
-With [[Person eQXH0W]]
-Photos: [[2020-11-13 Photos at eQXH0W]]
-
-## Collections
-#interview [[Interviews]]
-
-## Transkript
-
-I: Interviewer
-P: [[Person eQXH0W]]
-O1: Person im Off 1
-O2: Person im Off 2, Gast des Partizipanden
-O3: Person im Off 3, Partnerin des Partizipanden
+- Photos: [[2020-11-13 Photos at eQXH0W]]
+- I: Interviewer
+- P: [[Person eQXH0W]]
+- O1: Person im Off 1
+- O2: Person im Off 2, Gast des Partizipanden
+- O3: Person im Off 3, Partnerin des Partizipanden
 
 ---
 

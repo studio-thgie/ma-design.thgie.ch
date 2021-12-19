@@ -1,17 +1,10 @@
 # Voice Assistant Basics 
 *Conducted in Swiss-German*
 
-With [[Person YzCTXF]]
-Photos: [[2020-11-12 Photos at YzCTXF and j5mWdx]]
-
-## Collections
-#interview [[Interviews]]
-
-## Transkript
-
-I: Interviewer
-P1: [[Person YzCTXF]]
-P2: [[Person j5mWdx]]
+- Photos: [[2020-11-12 Photos at YzCTXF and j5mWdx]]
+- I: Interviewer
+- P1: [[Person YzCTXF]]
+- P2: [[Person j5mWdx]]
 
 ---
 

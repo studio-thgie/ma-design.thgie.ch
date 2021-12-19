@@ -1,19 +1,9 @@
 # Voice Assistant Basics 
 *Conducted in Swiss-German*
 
-With: [[Person bXQw3h]]
-Photos: [[2021-01-08 Photos at bXQw3h]]
-
-## Notes
-visitors asks google to find information about the participant
-
-## Collections
-#interview [[Interviews]]
-
-## Transkript
-
-I: Interviewer
-P: [[Person bXQw3h]]
+- Photos: [[2021-01-08 Photos at bXQw3h]]
+- I: Interviewer
+- P: [[Person bXQw3h]]
 
 ---
 

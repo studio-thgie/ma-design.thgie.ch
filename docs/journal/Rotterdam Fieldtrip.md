@@ -1,5 +1,8 @@
 ---
+title: 'Rotterdam Fieldtrip'
 date: 2020-02-09
+header: '/assets/images/IMG_20200212_164612.jpg'
+description: "Our classes' fieldtrip was to Rotterdam, a city I already visited once and fell in love a bit. Rotterdam is gritty but welcoming and teeming with creative energy."
 ---
 # Rotterdam Fieldtrip
 Feb 09, 2020
@@ -44,9 +47,7 @@ We had a day of workshop at the A/BZ Studio. They are entangled with the PZI and
 
 Despite not being able to work directly on my own project, it helped a lot with reflection and how to prototype a method, test it out and reflect on it. The process here seems to lean a bit more on the doing side.
 
+[Reviewing](IMG_20200212_164612.jpg)
+
 ## Feb 14, 2020 - Last day of fieldtrip
 I'm like, tired.
-
-#research-log #website
-
-[[Journal]] 

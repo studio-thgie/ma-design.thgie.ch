@@ -1,15 +1,8 @@
 # Voice Assistant Basics 
 *Conducted in German*
 
-With [[Person 0TFKnT]]
-
-## Collections
-#interview [[Interviews]]
-
-## Transkript
-
-I: Interviewer
-P: [[Person 0TFKnT]]
+- I: Interviewer
+- P: [[Person 0TFKnT]]
 
 ---
 

@@ -3,6 +3,8 @@
 
 With [[Person DgaB8Q]]
 
+---
+
 00:07 I: Du konntest ja schon viel Erfahrung mit Sprachassistenten sammeln. Möchtest du mir ein wenig davon erzählen, wie es dazu kam und was dich daran interessiert hat?
 
 00:24 P: Interessiert hat es mich eigentlich von Anfang an. Wie sowas überhaupt möglich ist, wie es funktioniert. Und wie es ist um mit einer AI zu sprechen. Das war dann aber eher ernüchternd. Das man nur so kurze Kommandos geben kann im wesentlichen. Und das sie es oft nicht versteht. Beruflich hatte ich im Zusammenhang einer Med-Tech Firma damit zu tun. Da ging es darum, dass man so ein Gerät, welches Medikamente appliziert, später fragen kann, ob man ein Medikament schon genommen hat. Da habe ich gelernt, anstatt nur Amazon Services abzufragen, wie man auch ein IoT Device einbinden kann. Das du nachher Alexa fragen, ich nehme jetzt ein Beispiel, fragst du das Aquarium, ob du den Fischen schon Futter gegeben hast. Das brauche ich heute auch beim Unterrichten, um zu erklären wie Alexa funktioniert, als Anschauungsbeispiel.

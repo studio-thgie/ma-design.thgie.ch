@@ -1,18 +1,11 @@
 # Voice Assistant Basics 
 *Conducted in Swiss-German*
 
-With [[Person j5mWdx]]
-Photos: [[2020-11-12 Photos at YzCTXF and j5mWdx]]
-
-## Collections
-#interview [[Interviews]]
-
-## Transkript
-
-I: Interviewer
-P1: [[Person j5mWdx]]
-P2: [[Person YzCTXF]]
-A: Amazon Alexa
+- Photos: [[2020-11-12 Photos at YzCTXF and j5mWdx]]
+- I: Interviewer
+- P1: [[Person j5mWdx]]
+- P2: [[Person YzCTXF]]
+- A: Amazon Alexa
 
 ---
 

@@ -3,10 +3,8 @@
 
 With [[Person 5gQeRi]]
 
-## Collections
-#interview [[Interviews]]
+---
 
-## Transkript
 00:00 p1 Als du jetzt abgeschlossen hast, hattest du da auch Interviews geführt?
 
 00:05 p2 Ich habe insgesamt fünf Interviews geführt.

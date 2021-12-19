@@ -3,10 +3,7 @@
 
 With [[Person 3j14j0]]
 
-## Collections
-#interview [[Interviews]]
-
-## Transkript
+---
 
 Adrian Demleitner  0:02  
 Good. Thank you very much for taking your time for this briefly. 
