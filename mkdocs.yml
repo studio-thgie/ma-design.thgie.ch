@@ -35,8 +35,7 @@ plugins:
       size: 99
       paging: false
       show_total: false
-      sort:
-        by: date
+      meta_time_format: '%Y-%m-%d'
       features:
         tags: {}
       dirs:
