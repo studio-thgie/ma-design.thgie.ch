@@ -23,9 +23,9 @@ plugins:
   - blogging:
       template: 'ttt_theme/custom-blog.html'
       size: 99
-      sort_by: "date"
       paging: false
       show_total: false
+      meta_time_format: '%Y-%m-%d'
       features:
         tags: {}
       dirs:
