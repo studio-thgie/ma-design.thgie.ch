@@ -174,8 +174,29 @@ h1, h2, h3 {
     max-width: 1200px;
 }
 
-p, ul, ol {
+p, ul, ol, blockquote {
     max-width: 768px;
+}
+
+blockquote p {
+    margin: 0 0 1rem;
+    padding: 0;
+}
+
+blockquote p:before {
+    content: "“";
+}
+blockquote p:after {
+    content: "”";
+}
+
+blockquote {
+    margin: 0;
+    padding: 2rem;
+    background: rgba(0, 0, 0, 0.725);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.125);
+    color: white;
+    font-style: italic;
 }
 
 p img {
