@@ -2,6 +2,9 @@
 date: "2019-11-17"
 description: "Many coachings lead to much thinking… not always clarity. Claritiy usually comes from decisions. And I made some."
 header: "/assets/images/2022-01-03-22-09-57.png"
+tags:
+    - reflexion
+    - project development
 ---
 # Clarifications
 Nov 17, 2019

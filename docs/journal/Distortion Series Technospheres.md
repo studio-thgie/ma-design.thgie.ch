@@ -1,10 +1,12 @@
 ---
 date: "2020-01-20"
+description: "I visited the third event in the Distortion series at HEAD in Geneva, organised be the master on media design. The focus was on digital technologies and the ecological crisis from a perspective of design."
+header: "/assets/images/2022-01-03-22-17-03.png"
+tags:
+    - conference
 ---
 # Distortion Series : Technosphere(s)
 Jan 20, 2020
-
-#research-log
 
 I visited the third event in the Distortion series at HEAD in Geneva, organised be the master on media design. The focus was on digital technologies and the ecological crisis from a perspective of design. 
 
@@ -46,10 +48,4 @@ Lorenzo investigated two different epistemological systems and juxtaposed them i
 
 What I took from the event was, that designers are closely investigating what technology means in this time of ecological crisis. While some want to abolish unsustainable technology, others are imposing limits on what it is allowed to do. Some even try to expand the notion of what technology means.
 
-
-
 https://www.hesge.ch/head/en/event/2020/distortion-series-technospheres
-
-![Screenshot_2020-01-22 Distortion Series Technosphere_s_ HEAD.png](/assets/images/cd7683a3d7704ef1bc06b5320d9f5f0a.png)
-
-[[Journal]] 

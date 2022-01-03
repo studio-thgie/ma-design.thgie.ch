@@ -1,7 +1,12 @@
 ---
 date: "2020-02-05"
+description: "In this entry I would love to briefly capture the state of the project and the process so far. Just half a year into my studies and everything is different, it seems."
+header: "/assets/images/2022-01-03-22-20-11.png)"
+tags:
+    - reflexion
+    - project development
 ---
-# Feb 05, 2020 - Process 1st Semester
+# Process 1st Semester
 Feb 05, 2020
 
 In this entry I would love to briefly capture the state of the project and the process so far. Just half a year into my studies and everything is different, it seems.
@@ -56,6 +61,7 @@ I will maybe expand on that another time.
 
 The spirit of animism is still alive within the core of my research question or case study, but it became more entangled, less simple. It's not anymore about my personal relationship to an object, but about many relationships between many things. The care part lays a bit low right now but is included in the hypothesis and I somehow have the feeling that it will flare up again.
 
-#research-log #website
+---
 
-[[Journal]]
+Photo by <a href="https://unsplash.com/@martinsanchez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Martin Sanchez</a> on <a href="https://unsplash.com/s/photos/river?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
