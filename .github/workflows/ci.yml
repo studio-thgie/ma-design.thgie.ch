@@ -12,6 +12,6 @@ jobs:
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      - run: pip install mkdocs-blogging-plugin
+      - run: python -m pip install git+https://github.com/thgie/mkdocs-blogging-plugin.git@bb8ea1ce5c43fb9cafdf4678fdb2d2d209ba0387
       - run: pip install mkdocs-roamlinks-plugin
       - run: mkdocs gh-deploy --force
