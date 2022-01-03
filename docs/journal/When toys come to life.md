@@ -4,7 +4,7 @@ date: "2021-01-18"
 tags:
     - literature
     - review
-header: /assets/images/2022-01-03-18-18-09.png
+header: "/assets/images/2022-01-03-18-18-09.png"
 ---
 # When toys come to life
 Jan 18, 2021
