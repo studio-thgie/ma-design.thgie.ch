@@ -9,6 +9,7 @@ An API is a standardized way in which two pieces of software can interact with e
 ATs are products, equipment, and systems that enhance learning, working, and daily living for persons with disabilities.
 
 ## [[Emotional durable design]] (EDD)
+Emotionally durable design is interested in our relations to products and forming strong bonds with them.
 
 ## GAFA
 Abbreviation for Google, Amazon, Facebook, and Apple.
