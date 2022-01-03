@@ -25,3 +25,11 @@ These are texts that came into existence during my MA studies but are not direct
 - [[Negotiating Privacy with Voice Assistants]]
 - [[Animistic Emotionally Durable Design]]
 - [[Trees]]
+
+The following texts were written very early in the project, where the focus was still on an ecological consideration of electronics. It is completely possible that some of it emerged out of class workshops.
+
+- [[Agency within the  context of new materialism]]
+- [[Design and New Materialism - Possible approaches]]
+- [[On the Application of Animism in Design]]
+- [[Object relations]]
+- [[From Hari-Kuyō to Airpods]]
