@@ -1,10 +1,10 @@
 ---
 date: "2020-02-05"
 description: "In this entry I would love to briefly capture the state of the project and the process so far. Just half a year into my studies and everything is different, it seems."
-header: "/assets/images/2022-01-03-22-20-11.png)"
+header: "/assets/images/2022-01-03-22-20-11.png"
 tags:
     - reflexion
-    - project development
+    - project-development
 ---
 # Process 1st Semester
 Feb 05, 2020
