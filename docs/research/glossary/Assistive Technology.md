@@ -1,9 +1,5 @@
----
-title: 'Assistive Technology (AT)'
-description: 'Products, equipment, and systems that enhance learning, working, and daily living for persons with disabilities.'
----
-
 # Assistive Technology
+Products, equipment, and systems that enhance learning, working, and daily living for persons with disabilities.
 
 ## Sources
 - [https://www.atia.org/home/at-resources/what-is-at/](https://www.atia.org/home/at-resources/what-is-at/)

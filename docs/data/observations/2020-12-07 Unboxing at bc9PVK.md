@@ -31,7 +31,7 @@ Scenario: [[Unboxing the Voice Assistants]]
 - Nervös wegen dem Installieren
 - Aufwand ärgert 
 - Oberfläche und Unboxing fühlt sich toll an
-- Genervt ab dem [[Home Setup Process]]
+- Genervt ab dem Home Setup Process
 - Genervt ab Legal Options
 - Neugierig
 - Angenehm, weil alles so geleitet wurde

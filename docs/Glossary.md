@@ -1,21 +1,26 @@
 # Glossary
-## [[Assistive Technology (AT)]]
-Products, equipment, and systems that enhance learning, working, and daily living for persons with disabilities.
+## [[Actor-network theory]] (ANT)
+Actor-network theory treats non-human objects and things, such as doorknobs, keys, tables, the weather, electricity, ferns, sandwiches, cockroaches, bookcovers, elevator buttons, port standards, APIs and others as actants within socio-material networks.
 
-## [[disability-first]]
-The term assumes that assistive interfaces are often workarounds for lifeworlds, content or processes designed for able-bodied and neuro-typical people. A disability-first interface would start from the perspective of people with impairments.
+## [[Application Programming Interface]] (API)
+An API is a standardized way in which two pieces of software can interact with each other. APIs become very relevant within the context of assistive technologies. They offer the chance to access a piece of software in ways the original developers and designers didn't forsee.
 
-## [[GAFA]]
-Google, Amazon, Facebook, Apple
+## [[Assistive Technology]] (AT)
+ATs are products, equipment, and systems that enhance learning, working, and daily living for persons with disabilities.
 
-## [[Human-Computer Interaction (HCI)]]
-The interaction between a person and a computer.
+## [[Emotional durable design]] (EDD)
+
+## GAFA
+Abbreviation for Google, Amazon, Facebook, and Apple.
+
+## [[Human-computer interaction]] (HCI)
+HCI focuses on the interfaces between people (users) and computers. HCI researchers observe the ways humans interact with computers and design technologies that allow humans to interact with computers in novel ways.
 
 ## [[New Materialism]]
-A assemblage of theoretical approaches to flatten her ontological hierarchy between humans and non-humans.
+A assemblage of theoretical approaches to flatten her ontological hierarchy between humans and non-humans. New materialism is closely related to the ontological and material turns in critical theory.
 
-## [[Ontological design]]
-"we design our world, while our world acts back on us and designs us." (Willis 2006:69)
+## [[Ontological Design]]
+Derived from the philosophy of Heidegger, ontological design essentially is saying that what we design designs us back. Ontological design was brought forward in design theory by Anne-Marie Willis and taken up amongst others by Design Justice and Arturo Escobar.
 
 ## [[Postphenomenology]]
 The study of technology in terms of the relations between human beings and technological artifacts, focusing on the various ways in which technologies help to shape relations between human beings and the world.
@@ -23,8 +28,20 @@ The study of technology in terms of the relations between human beings and techn
 ## [[Privacy]]
 ![132438056_889816478422538_2060106273701229122_n.jpg](/assets/images/132438056_889816478422538_2060106273701229122_n.jpg)
 
-## [[Voice User Interface (VUI)]]
-VUI make it possible for users to interact with a device or an app through voice commands.
+## [[User-centered design]] (UCD)
+User-centered design is a design approach that places users' needs, wants, and desires at the center of the design process. It ensures that these needs and desires drive the development of a product, system, or service.
 
-## [[Voice-Assistant (VA)]]
-Voice assistants are complex technologies that create a dialogical, spoken interface with computational ressources.
+## [[Universal design]] (UD)
+Universal design was driven through processes in liberal political, economic, and scientific structures concerned with defining the disabled user and designing for them. UD is designing for the most diverse range of users possible without falling back to a one-size-fit-all approach.
+
+## [[Utterance]]
+Utterances in the context of a voice assistant are short commands that the VA then can match against patterns to recognize the intent of the user.
+
+## [[Voice Assistant]] (VA)
+Voice assistants are technologies that create a dialogical, spoken interface with computational ressources. Input can be made in the form of a command (utterances) and the output is spoken back by the device or software.
+
+## Voice assistant Skills
+Skills are encapsulated functions for a voice assistant platform, such as asking for the weather or setting a timer. Skills are akin to micro-applications that are installable on a voice assistant like Amazon Echo or the open-source Mycroft.
+
+## Voice User Interface (VUI)
+VUI makes it possible for users to interact with a device or an app through voice. Input and ouput are created through audio only. VUIs are part of voice assistants but also operating systems such as MacOS or Windows or softwares such as Dragon NaturallySpeak.

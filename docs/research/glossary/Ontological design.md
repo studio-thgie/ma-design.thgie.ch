@@ -1,8 +1,3 @@
----
-title: 'Ontological design'
-description: '"we design our world, while our world acts back on us and designs us." (Willis 2006:69)'
----
-
 # Ontological design
 Derived from the philosophy of Heidegger, ontological design essentials says, that what we design, designs us back.
 

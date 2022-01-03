@@ -1,0 +1,2 @@
+# Voice Assistant
+Voice assistants are technologies that create a dialogical, spoken interface with computational ressources. Input can be made in the form of a command ([[Utterance]]) and the output is spoken back by the device or software. There are usually no visual or material interfaces with voice assistants. All exchanges are made via audio interface.
