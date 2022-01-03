@@ -10,5 +10,3 @@ The general problem that arises out of these two themes would then be as follows
 > Users of voice assistants miss a proper vocabulary to deal with the other-than-human presence, especially in case of errors, and generally have a hard time bonding with voice assistants. They are further unable to deal with issues of trust and can assert only little control over the negotiation of this important aspect.
 
 Neither the user nor the device knows enough or even can know enough, about the other to enable communication and interaction that would lead to trust and bonding. The interaction with a voice assistant needs to feature implementations of design characteristics, that enable the user to no just tolerate but embrace the chaotic nature of voice assistants while still being to unlock their full potential.
-
-#theme

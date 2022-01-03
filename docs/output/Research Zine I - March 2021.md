@@ -24,5 +24,3 @@ What I saw in the field was a stark contrast to what the advertisements sell. Qu
 - [[Product Aesthetics, Ads and Hacks]]
 
 [Zine as beautiful PDF](/assets/files/research_zine_i.pdf)
-
-#research-zine-i

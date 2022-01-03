@@ -8,5 +8,3 @@ The uncanny valley finds many expressions in the interaction with voice assistan
 Another problem that is often encountered is that the devices go off without users intending them to do so; **activation without interaction**. I have more than one funny and sometimes downwards creepy anecdote to tell around this. These seemingly random activations are often not perceived as quirky, like with a pet, but alienating.
 
 The last issue is that the voice assistants build up a **ghostly presence**. This perception arises from the fact, that voice assistants are always-on devices. They are always listening in on their environment, waiting for a wake word, upon hearing it being unlocked and available for further interaction. Knowing this made my participants feel a presence in the room that led them to alter their behaviors and how and what they said.
-
-#theme

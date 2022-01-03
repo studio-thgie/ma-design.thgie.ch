@@ -22,5 +22,3 @@ The simple instructions are the key to a successful relationship with this devic
 The absence of any physicality isn't helping in creating bonds between user and machine. After the unboxing, which was generally loved by my participants, the device is placed strategically within the apartment. It is not omnipresent and can't listen into every single corner of the appartment. Another alternative is to buy additional devices to serve a multi-room home. The device allows for simple touch gestures. It includes three buttons and a switch. Curiously enough, the designers were so mindful as to add a switch to turn of the microphone, to tackle privacy issues. My participants were suspicious. Why would you want to add a switch for that, if you have nothing to hide? The three buttons control the volume and the last button is generally to stop the device from talking.
 
 I had only two cases, where physicality was mentioned specifically. One participant let the device accidentally fall, for which she was very very sorry. Another participant, in anger, kicks the device now and then...
-
-#theme

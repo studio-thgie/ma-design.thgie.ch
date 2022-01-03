@@ -385,3 +385,8 @@ nav a:hover {
         margin-right: 1rem;
     }
 }
+
+/* hacks */
+#blog-pagination {
+    display: none;
+}

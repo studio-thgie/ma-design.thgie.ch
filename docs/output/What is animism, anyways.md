@@ -14,5 +14,3 @@ That sounds pretty abstract, doesn't it? Have you ever talked to one of your hou
 The problem we have, as a Central-European culture, is that we don't have a way to express animism. We need to change that. We need to find ways, to unsettle our over-rational ways of going about our businesses and need to develop ways of expressing our relationship that we have with the things we surround ourselves. This is the core aspect of this research project. To develop the knowledge on how to create things out of such a mindset.
 
 >   Can animistic views and practices be found in approaches in our society, even if it can no longer show any animistic tradition? Can animistic practices in design lead to a more intensive connection to technological products and processes? What are the effects of such a relationship?
-
-#research-zine-i

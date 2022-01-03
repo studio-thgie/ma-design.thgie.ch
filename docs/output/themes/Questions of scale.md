@@ -16,5 +16,3 @@ The brands, the manufactures of the devices, the developers of the assistant are
 The device is manifested, the assistant present; But everything else, behind it, becomes many hyperobjects.
 
 > How does consumer technology un-/make our ability to care for our companion objects/the material?
-
-#theme

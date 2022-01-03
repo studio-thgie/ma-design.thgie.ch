@@ -22,5 +22,3 @@ The [[Communication, Language and Behavior]] involved with the assistant is very
 The assistant promises a human form of communication to our electro-digital environment. Some users anthropomorphize the assistant, but never as an adult. Many more users are othering the assistant. They act in master-slave patterns, see in it a stupid dog, or even worse, throw sexist insults at it while kicking it. What was meant as a companion, to make life easier, brings out the worst in us? It promised to enable natural human-computer communication, but it's all fake. We're not getting anything human out of this, no matter how angry we get.
 
 > What are the stories underlying the design and use of technological artifacts? What are the values conveyed in these stories? Are there alternatives to these stories?
-
-#theme

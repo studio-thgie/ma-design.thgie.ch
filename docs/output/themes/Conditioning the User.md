@@ -16,5 +16,3 @@ Of course, there are also good moments, and most of the time, the assistant does
 By conditioning the user, by controlling the technological narrative, controlling the users' imagination, [[GAFA]] can bring about their utopia. The users know very well about the unsustainability of voice assistant technologies, electronics, and the cloud. But they don't see any other alternative, they can't imagine one. And it is the same with privacy issues. Users rather have an anonymous big data interface in their home, recording their family, than a human researcher observing them.
 
 > Yes, many of these, let's say, gadgets are not very sustainable in principle. Because they are rather cheap products and are thrown on the market relatively cheaply so that they can be distributed as quickly as possible. From that point of view, yes, it's now probably not necessarily the most sustainable. 
-
-#theme

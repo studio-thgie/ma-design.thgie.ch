@@ -67,6 +67,3 @@ Hier geht es zum [[Research Zine I - March 2021]].
 - Wichtig als informeller Ort des Austausches
 
 ### 18:30 Abendessen
-
-
-#research-design [[Research Designs]]
