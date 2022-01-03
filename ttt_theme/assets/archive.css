@@ -233,6 +233,10 @@ body {
 a {
     color: black;
 }
+a.blogging-tag {
+    font-size: 0.75rem;
+    margin-right: 5px;
+}
 hr {
     border: none;
     border-bottom: 1px solid #e3e3e3;
