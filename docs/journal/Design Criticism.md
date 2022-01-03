@@ -1,5 +1,5 @@
 ---
-date: 2020-03-13
+date: "2020-03-13"
 ---
 # Design Criticism
 Mar 13, 2020

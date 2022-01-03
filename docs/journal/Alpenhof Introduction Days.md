@@ -1,5 +1,5 @@
 ---
-date: 2019-10-01
+date: "2019-10-01"
 header: /assets/images/597fdc99d16c40e8b0fd50d776a81c04.jpg
 description: "Ziel der Woche war ein allgemeines Kennenlernen, zwischen Student*innen und MAD, sowie eine erste Reflexion über das eigene Projekt/die eigene Fragestellung zu erlangen."
 ---

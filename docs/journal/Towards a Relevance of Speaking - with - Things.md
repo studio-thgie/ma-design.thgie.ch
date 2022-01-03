@@ -1,6 +1,6 @@
 ---
 title: 'Towards a Relevance of Speaking (with) Things'
-date: 2021-09-08
+date: "2021-09-08"
 ---
 # Towards a Relevance of Speaking (with) Things
 *8. September 2021*

@@ -1,5 +1,5 @@
 ---
-date: 2021-01-29
+date: "2021-01-29"
 ---
 # Reflexive Journal I
 Jan 29, 2021

@@ -1,5 +1,5 @@
 ---
-date: 2020-10-22
+date: "2020-10-22"
 ---
 #  Teilnehmer*innen
 Oct 22, 2020

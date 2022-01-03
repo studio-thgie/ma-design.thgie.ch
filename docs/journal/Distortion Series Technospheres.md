@@ -1,5 +1,5 @@
 ---
-date: 2020-01-20
+date: "2020-01-20"
 ---
 # Distortion Series : Technosphere(s)
 Jan 20, 2020

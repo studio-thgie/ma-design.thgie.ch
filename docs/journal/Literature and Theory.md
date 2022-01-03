@@ -1,5 +1,5 @@
 ---
-date: 2020-05-24
+date: "2020-05-24"
 ---
 # Literature and Theory
 May 24, 2020

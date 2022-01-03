@@ -1,5 +1,5 @@
 ---
-date: 2021-02-27
+date: "2021-02-27"
 ---
 # Crossroads and Conjunctions
 *Feb 27, 2021*

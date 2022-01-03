@@ -1,5 +1,5 @@
 ---
-date: 2020-03-20
+date: "2020-03-20"
 ---
 # Stand der Dinge, März 2020
 Mar 20, 2020

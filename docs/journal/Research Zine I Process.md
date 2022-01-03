@@ -1,5 +1,5 @@
 ---
-date: 2021-02-05
+date: "2021-02-05"
 ---
 # Research Zine I Process
 Feb 05, 2021

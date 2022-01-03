@@ -1,5 +1,5 @@
 ---
-date: 2019-12-26
+date: "2019-12-26
 ---
 
 # Winter Intermission 19/20

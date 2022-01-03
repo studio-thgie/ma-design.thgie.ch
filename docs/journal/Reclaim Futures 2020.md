@@ -1,5 +1,5 @@
 ---
-date: 2020-09-26
+date: "2020-09-26"
 ---
 # Reclaim Futures 2020
 Sep 26, 2020

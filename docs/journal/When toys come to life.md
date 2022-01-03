@@ -1,5 +1,5 @@
 ---
-date: 2021-01-18
+date: "2021-01-18"
 ---
 # When toys come to life
 Jan 18, 2021

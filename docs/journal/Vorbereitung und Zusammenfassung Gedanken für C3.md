@@ -1,6 +1,6 @@
 ---
 title: 'Vorbereitung und Zusammenfassung Gedanken für C3'
-date: 2021-09-16
+date: "2021-09-16"
 ---
 # Vorbereitung und Zusammenfassung Gedanken für C3
 Im Gespräch mit Julia Geiser sind wir mein Forschungsvorhaben durchgegangen und haben die Dinge seit C2 Revue passieren lassen.

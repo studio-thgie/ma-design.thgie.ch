@@ -1,6 +1,6 @@
 ---
 title: Prototyping I
-date: 2021-10-22
+date: "2021-10-22"
 description: "A brief overview, documentation and reflection of the prototyping and testing on voice assistants done in the last semester. The most important take-away: This needs to be a group effort."
 header: "/assets/images/Screenshot_2021-10-24_at_11.11.50.png"
 ---

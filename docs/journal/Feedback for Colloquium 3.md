@@ -1,6 +1,6 @@
 ---
 title: "Feedback for Colloquium 3"
-date: 2021-11-26
+date: "2021-11-26"
 description: "The feedback for my third colloquium was benevolent and on point."
 ---
 # Feedback for Colloquium 3

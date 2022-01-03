@@ -1,5 +1,5 @@
 ---
-date: 2021-03-05
+date: "2021-03-05"
 ---
 # Post-Animism Phase
 Mar 05, 2021

@@ -1,6 +1,6 @@
 ---
 title: "It's interviews all the way down"
-date: 2021-12-13
+date: "2021-12-13"
 description: "Doing participatory research during a pandemie often is reduced to a minimum. I was able to work around the limitations with a handfull of expert interviews."
 ---
 

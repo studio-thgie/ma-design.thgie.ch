@@ -1,6 +1,6 @@
 ---
 title: The Numbers
-date: 2021-10-18
+date: "2021-10-18"
 description: Eine kleine Recherche zu den Marktnummern von Sprachassistenten
 ---
 # The Numbers
