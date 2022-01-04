@@ -1,5 +1,10 @@
 ---
+title: "Post-Animism Phase"
 date: "2021-03-05"
+description: "I'm finally saying goodbye to animism. Long overdue but I believe the exchange with the subject brought much with it."
+tags:
+    - project-development
+header: "/assets/images/IMG_20201207_191543.jpg"
 ---
 # Post-Animism Phase
 Mar 05, 2021

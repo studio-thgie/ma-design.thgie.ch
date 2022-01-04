@@ -4,7 +4,7 @@ date: "2020-09-26"
 description: "I was given the chance to present my project and core-topic at a wonderful conference. The talk was pre-recorded and I took the chance to produce a small experimental film, in which I show the practice of entangling with everyday objects."
 tags:
     - conference
-header: "/assets/images/things-are-people.png"
+header: "/assets/images/things-are-people.jpeg"
 ---
 # Reclaim Futures 2020
 Sep 26, 2020

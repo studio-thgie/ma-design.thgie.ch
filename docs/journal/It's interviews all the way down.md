@@ -5,6 +5,7 @@ description: "Doing participatory research during a pandemie often is reduced to
 tags:
     - applied-research
     - methodologies
+header: "/assets/images/IMG_20201203_212152.jpg"
 ---
 
 # It's interviews all the way down
