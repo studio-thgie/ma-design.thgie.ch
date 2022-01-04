@@ -3,7 +3,7 @@
 {% macro render_blog(title, description, time, url, page) -%}
 <li>
     {% if page.meta['header'] %}
-        <div class="entry-header" style="background-image: url({{ page.meta['header'] }});">
+        <div class="entry-header">
             <img class="entry-header-img" src="{{ page.meta['header'] }}" loading="lazy">
         </div>
     {% endif %}

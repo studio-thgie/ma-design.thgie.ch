@@ -321,18 +321,13 @@ div.pages .page li.subtitle  h3{
     padding: 0;
     max-width: 100%;
 }
-div.pages .page li:not(.subtitle):hover {
-    transform: scale(1.0125);
-    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.05);
-}
 div.pages .page .entry-header {
     width: 100%;
-    height: 300px;
-    background-size: cover;
-    background-position: center;
+    max-height: 300px;
+    overflow: hidden;
 }
 div.pages .page .entry-header-img {
-    display: none;
+    width: 100%;
 }
 div.pages .page li span {
     display: block;
