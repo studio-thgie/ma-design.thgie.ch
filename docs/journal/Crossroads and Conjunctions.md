@@ -1,5 +1,10 @@
 ---
+title: "Crossroads and Conjunctions"
 date: "2021-02-27"
+description: "I reached kind of a crossroad in my project, but it's a messy one. It's not just that one path intersects with the one I was on. The path I'm on has no straight continuation from this point onwards."
+tags:
+    - reflexion
+header: "/assets/images/IMG_20210102_165639.jpg"
 ---
 # Crossroads and Conjunctions
 *Feb 27, 2021*

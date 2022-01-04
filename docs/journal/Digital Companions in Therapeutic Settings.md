@@ -1,5 +1,10 @@
 ---
+title: "Digital Companions in Therapeutic Settings"
 date: "2021-03-21"
+description: "I do believe that voice assistants hold supportive potential if integrated in therapeutic programs. Here I lay out my thoughts regard this comment."
+tags:
+    - project-development
+header: "/assets/images/IMG_20201113_172959.jpg"
 ---
 # Digital Companions in Therapeutic Settings
 *A post-phenomenological approach to voice assistants*

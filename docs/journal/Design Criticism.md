@@ -1,5 +1,10 @@
 ---
+title: "Design Criticism"
 date: "2020-03-13"
+description: "The Design Criticism workshop was short, filled with fruitful discussions and two interesting outputs. I could persuade my team-members to focus on the design of technology and how it interferes with our lives."
+tags:
+    - course
+header: "/assets/images/IMG_20210106_183352.jpg"
 ---
 # Design Criticism
 Mar 13, 2020

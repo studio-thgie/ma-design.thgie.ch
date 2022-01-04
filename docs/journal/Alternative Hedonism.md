@@ -1,5 +1,10 @@
 ---
+title: "Alternative Hedonism"
 date: "2021-01-05"
+description: "This is the notes on a paper that fascinated me as an alternative ecolonim model. While still being political, it focuses on the implications and reasons of concious consumption."
+tags:
+    - literature
+header: "/assets/images/IMG_20201207_191603.jpg"
 ---
 # Alternative Hedonism
 *05 Jan, 2021*

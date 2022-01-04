@@ -1,5 +1,10 @@
 ---
+title: "Done with collecting..."
 date: "2021-01-28"
+description: "I am finished with collecting data through ethnographic research methods. What have I gathered? What comes next?"
+tags:
+    - methodologies
+header: "/assets/images/IMG_20201113_172844.jpg"
 ---
 # Done with collecting...
 Jan 28, 2021

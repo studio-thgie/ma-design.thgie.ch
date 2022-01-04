@@ -2,6 +2,7 @@
 title: "Abstract for Thesis"
 date: "2021-12-02"
 description: "I tried to collect all my thoughts into an abstract in preparation for the thesis. It's to long but parts of it will flow into other areas."
+header: "/assets/images/IMG_20210106_175029.jpg"
 ---
 
 # Abstract for Thesis
