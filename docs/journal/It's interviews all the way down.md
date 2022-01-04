@@ -25,3 +25,8 @@ How do Voice Assistants mediate our access to the world, especially within the c
 - [[2021-09-09 VA Extended with 5gQeRi]]
 - [[2021-08-25 VA Extended with 3j14j0]]
 - [[2021-08-25 VA Extended with 9ASqQv]]
+
+---
+
+Photo by <a href="https://unsplash.com/@ciabattespugnose?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lucrezia Carnelos</a> on <a href="https://unsplash.com/s/photos/carp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
