@@ -4,7 +4,7 @@
 <li>
     {% if page.meta['header'] %}
         <div class="entry-header" style="background-image: url({{ page.meta['header'] }});">
-            <img class="entry-header-img" src="{{ page.meta['header'] }}">
+            <img class="entry-header-img" src="{{ page.meta['header'] }}" loading="lazy">
         </div>
     {% endif %}
     {% if page.meta['date'] %}

@@ -3,8 +3,8 @@ date: "2020-08-31"
 description: "The seminar, lead by Dr. Hanspeter Znoy, looked at how capitalist relations arrive in pre-capitalist communities as well as those pushed to the margins of society, like fugitives, minorities or the poor."
 header: "/assets/images/Matsutake-Hunt-2019-How-to-Hunt-Matsutake-in-the-Midwest-3-2.jpg"
 tags:
-    - courses
-    - writting
+    - course
+    - writing
 ---
 # Trees
 Aug 31, 2020
