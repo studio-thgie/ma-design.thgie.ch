@@ -1,7 +1,7 @@
 ---
 title: "Vorbereitung und Zusammenfassung Gedanken für C3"
 date: "2021-09-16"
-header: "/assets/images/2022-01-04-16-15-16.png"
+header: "/assets/images/2022-01-04-16-15-16.jpeg"
 description: "Im Gespräch mit Julia Geiser sind wir mein Forschungsvorhaben durchgegangen und haben die Dinge seit C2 Revue passieren lassen. Ein informelles Coaching sozusagen."
 ---
 # Vorbereitung und Zusammenfassung Gedanken für C3

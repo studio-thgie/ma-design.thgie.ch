@@ -1,7 +1,7 @@
 ---
 date: "2020-01-20"
 description: "I visited the third event in the Distortion series at HEAD in Geneva, organised be the master on media design. The focus was on digital technologies and the ecological crisis from a perspective of design."
-header: "/assets/images/2022-01-03-22-17-03.png"
+header: "/assets/images/2022-01-03-22-17-03.jpeg"
 tags:
     - conference
 ---
