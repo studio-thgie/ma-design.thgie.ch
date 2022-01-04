@@ -1,10 +1,13 @@
 ---
+title: "Reclaiming Futures 2020"
 date: "2020-09-26"
+description: "I was given the chance to present my project and core-topic at a wonderful conference. The talk was pre-recorded and I took the chance to produce a small experimental film, in which I show the practice of entangling with everyday objects."
+tags:
+    - conference
+header: "/assets/images/things-are-people.png"
 ---
 # Reclaim Futures 2020
 Sep 26, 2020
-
-![things-are-people.png](/assets/images/things-are-people.png)
 
 I was given the chance to present my project and core-topic at a wonderful conference. The conference was planned to happen in summer in Lausanne, Switzerland. Covid happened and the conference moved to autumn and online. I think it was a smart move and the attendance and talks were amazing as well as inspiring.
 

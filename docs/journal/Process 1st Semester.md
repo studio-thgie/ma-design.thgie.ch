@@ -4,6 +4,7 @@ description: "In this entry I would love to briefly capture the state of the pro
 tags:
     - reflexion
     - project-development
+header: "/assets/images/IMG_20201112_151111.jpg"
 ---
 # Process 1st Semester
 Feb 05, 2020

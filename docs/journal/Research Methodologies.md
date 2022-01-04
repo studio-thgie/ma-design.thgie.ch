@@ -5,6 +5,7 @@ description: "The second semester is amongst other things focusing on preliminar
 tags:
     - methodologies
     - research-design
+header: "/assets/images/IMG_20210213_133854.jpg"
 ---
 # Research Methodologies
 Apr 30, 2020

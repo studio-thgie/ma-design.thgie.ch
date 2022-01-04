@@ -1,5 +1,11 @@
 ---
+title: "Researchplan and -design 2020-21"
 date: "2020-10-02"
+description: "In diesem Eintrag versuche ich den Plan für die nächsten zwei Semester auszulegen."
+tags:
+    - project-development
+    - research-design
+header: "/assets/images/IMG_20210213_142958.jpg"
 ---
 # Researchplan and -design 2020-21
 Oct 02, 2020
