@@ -31,7 +31,8 @@ I setup the interview in order to listen to users of AirPods to talk about their
 
 #### Leitfaden
 
-**Interviewee hat AirPods** 
+**Interviewee hat AirPods**
+
 1. Nennung Marke und Model
 2. Beschreibung des Objekts in eigenen Worten
 3. Wie zum Objekt gekommen
@@ -42,6 +43,7 @@ I setup the interview in order to listen to users of AirPods to talk about their
 8. Stellenwert als Accessoire / Popularität
 
 **Interviewee hat keine AirPods **
+
 1. Kurze Präsentation von Objekt
 2. Was für eine Meinung / Haltung / Vorstellung von Objekt
 3. Pflege und Unterhalt
@@ -49,9 +51,10 @@ I setup the interview in order to listen to users of AirPods to talk about their
 5. Stellenwert als Accessoire / Popularität
 
 **Vorstellung Technik**
-* Neodym
-* Lithium
-* Was macht dieses Wissen mit Partizipandin?
+
+- Neodym
+- Lithium
+- Was macht dieses Wissen mit Partizipandin?
 
 ---
 

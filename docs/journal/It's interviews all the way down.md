@@ -2,6 +2,10 @@
 title: "It's interviews all the way down"
 date: "2021-12-13"
 description: "Doing participatory research during a pandemie often is reduced to a minimum. I was able to work around the limitations with a handfull of expert interviews."
+tags:
+    - applied-research
+    - methodologies
+header: "/assets/images/2022-01-04-16-31-49.png"
 ---
 
 # It's interviews all the way down
@@ -9,12 +13,15 @@ During my last semester I worked mainly through expert interviews, five in numbe
 
 While as the first set helped me setup the research focus the second helped me validate my hypothesis to a certain degree.
 
-*Voice assistants as assistive technologies*
+## Voice assistants as assistive technologies
+
 - [[2021-12-10 Voice assistants as assistive technologies with 9ASqQv and 8Y11NR]]
 - [[2021-12-10 Voice assistants as assistive technologies  with DgaB8Q]]
 
-*Voice Assistants Extended*
+## Voice Assistants Extended
+
 How do Voice Assistants mediate our access to the world, especially within the context of inclusion design.
+
 - [[2021-09-09 VA Extended with 5gQeRi]]
 - [[2021-08-25 VA Extended with 3j14j0]]
 - [[2021-08-25 VA Extended with 9ASqQv]]
