@@ -1,7 +1,13 @@
 ---
+title: "Research Methodologies"
 date: "2020-04-30"
+description: "The second semester is amongst other things focusing on preliminary research. Besides an extensive literature review I tried to implement a first approach to applied research. As discussed with my coach, I concentrated on Apple's AirPods as a technological artifact."
+tags:
+    - methodologies
+    - research-design
+header: "/assets/images/2022-01-04-16-21-12.png"
 ---
-# Research Methodologies, April 2020
+# Research Methodologies
 Apr 30, 2020
 
 The second semester is amongst other things focusing on preliminary research. Besides an extensive literature review I tried to implement a first approach to applied research. As discussed with my coach, I concentrated on Apple's AirPods as a technological artifact.
@@ -86,6 +92,7 @@ I will do a rephrasing on what I'm looking for in the interviews before I review
 
 The experimental approach was very interesting and I would love to use this method for research in the future as a think or discussion piece. I see a lot of potential for pen and paper rpg driven workshops for collaborative story-making and discussion drivers.
 
-#research-log #website
+---
 
-[[Journal]]
+Photo by <a href="https://unsplash.com/@janoschphotos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Janosch Diggelmann</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  

@@ -1,6 +1,11 @@
 ---
-title: 'Towards a Relevance of Speaking (with) Things'
+title: "Towards a Relevance of Speaking (with) Things"
 date: "2021-09-08"
+description: "Aus der Lesung des Feedbacks des zweiten Colloquiums ergibt sich, dass vor allem der Output, sowie die soziale Relevanz und die Konsequenzen des Projekts noch schwach angelegt sind. Der Punkt bezüglich schwacher Argumentation in Zusammenhang mit den Forschungsergebnissen scheint mir ebenfalls sehr wichtig."
+tags:
+    - project-development
+    - colloquia
+header: "/assets/images/2022-01-04-16-17-01.png"
 ---
 # Towards a Relevance of Speaking (with) Things
 *8. September 2021*

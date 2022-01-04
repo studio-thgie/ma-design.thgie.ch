@@ -1,7 +1,10 @@
 ---
 date: "2020-08-31"
-description: 'The seminar, lead by Dr. Hanspeter Znoy, looked at how capitalist relations arrive in pre-capitalist communities as well as those pushed to the margins of society, like fugitives, minorities or the poor.'
+description: "The seminar, lead by Dr. Hanspeter Znoy, looked at how capitalist relations arrive in pre-capitalist communities as well as those pushed to the margins of society, like fugitives, minorities or the poor."
 header: "/assets/images/Screenshot_2021-12-19_at_12.35.02.png"
+tags:
+    - courses
+    - writting
 ---
 # Trees
 Aug 31, 2020

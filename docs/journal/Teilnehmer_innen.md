@@ -1,5 +1,11 @@
 ---
+title: "Teilnehmer*innen"
 date: "2020-10-22"
+description: "Ich suche nun seit drei Wochen nach Teilnehmer*innen und werde nicht wirklich fündig. Partizipanden für ein Forschungsprojekt zu suchen ist nicht einfach..."
+tags:
+    - applied-research
+    - participants
+header: "/assets/images/2022-01-04-16-23-14.png"
 ---
 #  Teilnehmer*innen
 Oct 22, 2020
@@ -24,6 +30,7 @@ Unter Umständen muss ich andere Wege gehen um zu den gewünschten Daten zu komm
 
 Das hier war die Ausschreibung: [[Suche Teilnehmer_innen]]
 
-#research-log #website
+---
 
-[[Journal]]
+Photo by <a href="https://unsplash.com/@jorisbeugels?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Joris Beugels</a> on <a href="https://unsplash.com/s/photos/alpacas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  

@@ -1,7 +1,10 @@
 ---
 title: The Numbers
 date: "2021-10-18"
-description: Eine kleine Recherche zu den Marktnummern von Sprachassistenten
+description: "Eine kleine Recherche zu den Marktnummern von Sprachassistenten"
+tags:
+    - research
+header: "/assets/images/2022-01-04-16-18-34.png"
 ---
 # The Numbers
 Wieviele Geräte sind überhaupt im Umlauf und wie wird sich diese Technologie in absehbarer Zeit weiterentwickeln und etablieren?
@@ -34,3 +37,7 @@ Auch hier einige Auszüge:
 
 - We estimate that 128.0 million people in the US will use a voice assistant at least monthly in 2020, up 11.1% from 115.2 million in 2019. This represents 44.2% of internet users and 38.5% of the total population.
 - A new report from **Juniper Research** has found that consumers will interact with voice assistants on over 8.4 billion devices by 2024; overtaking the world’s population and growing 113% compared to the 4.2 billion devices expected to be in use by year end 2020.
+
+---
+
+Graphic by [P&S Intelligence](https://www.psmarketresearch.com/market-analysis/voice-assistant-market).
