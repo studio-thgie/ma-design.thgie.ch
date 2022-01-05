@@ -300,14 +300,12 @@ ul.nav-h a:hover {
 }
 
 div.pages .page {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    position: relative;
     max-width: 100%;
-    column-gap: 2rem;
-    row-gap: 2rem;
 }
 
 div.pages .page li {
+    position: absolute;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
     transition: .25s;
     padding-bottom: 20px;
@@ -323,7 +321,6 @@ div.pages .page li.subtitle  h3{
 }
 div.pages .page .entry-header {
     width: 100%;
-    max-height: 300px;
     overflow: hidden;
 }
 div.pages .page .entry-header-img {

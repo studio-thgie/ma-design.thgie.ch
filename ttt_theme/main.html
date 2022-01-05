@@ -27,5 +27,18 @@
         {{ page.content }}
     </main>
 
+    <script src="{{ config.site_url }}assets/minimasonry.min.js"></script>
+    <script>
+    
+        document.addEventListener('DOMContentLoad', () => {
+            if(document.querySelector('.page')) {
+                var masonry = new MiniMasonry({
+                    container: '.page'
+                }); 
+            }
+        })
+
+    </script>
+
 </body>
 </html>
