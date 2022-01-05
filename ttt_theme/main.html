@@ -29,7 +29,7 @@
 
     <script>
     
-        document.addEventListener('DOMContentLoad', () => {
+        document.addEventListener('DOMContentLoaded', () => {
             window.addEventListener('hashchange', function() {
                 if (location.hash !== '#blog-p1') {
                     document.querySelectorAll('.entry').forEach(el => {
