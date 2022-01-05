@@ -4,7 +4,7 @@ date: "2020-05-24"
 description: "Here is a brief overview of the literature I went into."
 tags:
     - literature
-header: "/assets/images/IMG_20210219_145343.jpg"
+header: "/assets/images/thumbs/IMG_20210219_145343.jpg"
 ---
 # Literature and Theory
 May 24, 2020

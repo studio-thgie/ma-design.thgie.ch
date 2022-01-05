@@ -4,7 +4,7 @@ date: "2021-04-16"
 description: "In here I try to let the two last semester sink in a tad or two. A lot has happened inside and outside of the project."
 tags:
     - reflexion
-header: "/assets/images/IMG_20210213_133854.jpg"
+header: "/assets/images/thumbs/IMG_20210213_133854.jpg"
 ---
 # Review Semesters III and IV
 <small>Apr 16, 2021</small>

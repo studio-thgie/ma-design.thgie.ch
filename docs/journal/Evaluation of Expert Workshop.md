@@ -1,7 +1,7 @@
 ---
 title: "Evaluation of Expert Workshop"
 date: "2021-02-18"
-header: "/assets/images/IMG_20210213_142949.jpg"
+header: "/assets/images/thumbs/IMG_20210213_142949.jpg"
 description: "The main goal of the workshop, to have a workable idea for a prototype, was missed. That said, the stories are rich in references, that in combination with the emotionally durable design framework can give rise to a prototype. I think I will work something out and make a proposition of a prototype to the participants that they can give a feedback on then."
 tags:
     - workshop
@@ -39,11 +39,11 @@ Not having any input on the form (aesthetics) of an animist approach to VAs leav
 - [[Expert Workshop - Story 4]]
 
 ## Photos of workshop
-![IMG_20210213_100207.jpg](/assets/images/IMG_20210213_100207.jpg)
-![IMG_20210213_133143.jpg](/assets/images/IMG_20210213_133143.jpg)
-![IMG_20210213_133153.jpg](/assets/images/IMG_20210213_133153.jpg)
-![IMG_20210213_133854.jpg](/assets/images/IMG_20210213_133854.jpg)
-![IMG_20210213_142949.jpg](/assets/images/IMG_20210213_142949.jpg)
-![IMG_20210213_142958.jpg](/assets/images/IMG_20210213_142958.jpg)
-![IMG_20210213_160054.jpg](/assets/images/IMG_20210213_160054.jpg)
-![IMG_20210213_173621.jpg](/assets/images/IMG_20210213_173621.jpg)
+![IMG_20210213_100207.jpg](/assets/images/thumbs/IMG_20210213_100207.jpg)
+![IMG_20210213_133143.jpg](/assets/images/thumbs/IMG_20210213_133143.jpg)
+![IMG_20210213_133153.jpg](/assets/images/thumbs/IMG_20210213_133153.jpg)
+![IMG_20210213_133854.jpg](/assets/images/thumbs/IMG_20210213_133854.jpg)
+![IMG_20210213_142949.jpg](/assets/images/thumbs/IMG_20210213_142949.jpg)
+![IMG_20210213_142958.jpg](/assets/images/thumbs/IMG_20210213_142958.jpg)
+![IMG_20210213_160054.jpg](/assets/images/thumbs/IMG_20210213_160054.jpg)
+![IMG_20210213_173621.jpg](/assets/images/thumbs/IMG_20210213_173621.jpg)

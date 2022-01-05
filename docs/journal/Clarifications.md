@@ -5,7 +5,7 @@ description: "Many coachings lead to much thinking… not always clarity. Clarit
 tags:
     - reflexion
     - project development
-header: "/assets/images/IMG_20201215_130700.jpg"
+header: "/assets/images/thumbs/IMG_20201215_130700.jpg"
 ---
 # Clarifications
 Nov 17, 2019

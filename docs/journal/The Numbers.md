@@ -4,7 +4,7 @@ date: "2021-10-18"
 description: "Eine kleine Recherche zu den Marktnummern von Sprachassistenten"
 tags:
     - research
-header: "/assets/images/IMG_20201113_172822.jpg"
+header: "/assets/images/thumbs/IMG_20201113_172822.jpg"
 ---
 # The Numbers
 Wieviele Geräte sind überhaupt im Umlauf und wie wird sich diese Technologie in absehbarer Zeit weiterentwickeln und etablieren?

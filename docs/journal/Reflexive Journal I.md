@@ -6,7 +6,7 @@ tags:
     - analysis
     - applied-research
     - methodologies
-header: "/assets/images/IMG_20201210_155933.jpg"
+header: "/assets/images/thumbs/IMG_20201210_155933.jpg"
 ---
 # Reflexive Journal I
 Jan 29, 2021

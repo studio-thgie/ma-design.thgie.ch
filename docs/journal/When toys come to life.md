@@ -4,7 +4,7 @@ date: "2021-01-18"
 tags:
     - literature
     - review
-header: "/assets/images/2022-01-03-18-18-09.png"
+header: "/assets/images/thumbs/2022-01-03-18-18-09.png"
 description: "When toys come to life is an inspirational paper that tries to apply an animistic analysis to electronic devices."
 ---
 # When toys come to life

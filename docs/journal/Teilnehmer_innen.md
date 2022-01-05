@@ -5,7 +5,7 @@ description: "Ich suche nun seit drei Wochen nach Teilnehmer*innen und werde nic
 tags:
     - applied-research
     - participants
-header: "/assets/images/IMG_20201203_211954.jpg"
+header: "/assets/images/thumbs/IMG_20201203_211954.jpg"
 ---
 #  Teilnehmer*innen
 Oct 22, 2020

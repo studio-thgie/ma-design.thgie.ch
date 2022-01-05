@@ -5,7 +5,7 @@ description: "Aus der Lesung des Feedbacks des zweiten Colloquiums ergibt sich, 
 tags:
     - project-development
     - colloquia
-header: "/assets/images/2022-01-04-16-17-01.jpeg"
+header: "/assets/images/thumbs/2022-01-04-16-17-01.jpeg"
 ---
 # Towards a Relevance of Speaking (with) Things
 *8. September 2021*

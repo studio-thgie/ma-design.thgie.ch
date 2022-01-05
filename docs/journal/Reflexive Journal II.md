@@ -6,7 +6,7 @@ tags:
     - analysis
     - applied-research
     - methodologies
-header: "/assets/images/IMG_20201210_155928.jpg"
+header: "/assets/images/thumbs/IMG_20201210_155928.jpg"
 ---
 # Reflexive Journal II
 In this second iteration, I tried to build up themes from the codes and labels I applied to the data before. This process involves going through the codes and see if some can fit together under an umbrella theme.

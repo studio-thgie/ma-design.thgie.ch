@@ -2,7 +2,7 @@
 title: Prototyping I
 date: "2021-10-22"
 description: "A brief overview, documentation and reflection of the prototyping and testing on voice assistants done in the last semester. The most important take-away: This needs to be a group effort."
-header: "/assets/images/Screenshot_2021-10-24_at_11.11.50.png"
+header: "/assets/images/thumbs/Screenshot_2021-10-24_at_11.11.50.png"
 ---
 # Prototyping I
 Ausgehend von der [[Thematic Analysis]] vor dem zweiten Colloquium wollte ich im letzten Semester erste Entwicklungen mit den eigenen Ansätzen bezüglich Sprachassistenten umsetzen. Dazu galt es einerseits eine Entwicklungsumgebung (Tech Stack) aufzubauen, welche Rapid Prototyping erlaubt und andererseits zu definieren, wie diese ersten Prototypen genau zu funktionieren haben und wie sie testbar werden. Parallele Entwicklungen [[Vorbereitung und Zusammenfassung Gedanken für C3|bezüglich der Erkundung der sozialen/Relevanz]] haben den Prototypen dann noch einen zusätzlichen Dreh gegeben.
@@ -22,7 +22,7 @@ Die Tests waren durchaus spannend, wenn auch sehr technisch. Ich konnte vor alle
 
 Beim Flip Switch lässt sich mit einer kurzen Handbewegung, dem Umkehren eines Beacon Objektes, der Zustand des Sprachassistenten verändern. Der Zustand wird dann wiederum im Beacon Objekt wiedergegeben.
 
-![Code](/assets/images/IMG_0439.jpeg)
+![Code](/assets/images/thumbs/IMG_0439.jpeg)
 
 ### ELIZA; on mycroft and artyom
 *Mycroft, Raspberry Pi, artyom.js*
@@ -32,7 +32,7 @@ ELIZA war ein von Joseph Weizenbaum entworfenes Chatprogram, welches entlang der
 *artyom.js*
 Ausgehend aus einem nicht verfolgtem Thema der thematischen Analyse, [[Knowledge Practices]], wollte ich einen Sprachassistenten testen, welcher sich Praxen rund um Wissen oder zumindest Notizen fokusiert. In diesem Test lässt sich in einem Dialog mit dem Sprachassistenten treten und er speichert forlaufend alles gesagte und spiegelt es wieder.
 
-![Code](/assets/images/Screenshot_2021-10-24_at_11.11.50.png)
+![Code](/assets/images/thumbs/Screenshot_2021-10-24_at_11.11.50.png)
 
 ## Reflexion
 Das letzte Semester war überraschend kurz, was ich so nicht antizipiert hatte. Dementsprechend war auch die Planung den Umständen nicht entsprechend. Ich hätte gerne mehr Zeit fürs Testing aufwenden können.

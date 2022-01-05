@@ -1,7 +1,7 @@
 ---
 title: 'Rotterdam Fieldtrip'
 date: "2020-02-09"
-header: '/assets/images/IMG_20200212_164612.jpg'
+header: '/assets/images/thumbs/IMG_20200212_164612.jpg'
 description: "Our classes' fieldtrip was to Rotterdam, a city I already visited once and fell in love a bit. Rotterdam is gritty but welcoming and teeming with creative energy."
 ---
 # Rotterdam Fieldtrip
