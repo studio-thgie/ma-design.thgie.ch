@@ -33,10 +33,14 @@
             window.addEventListener('hashchange', function() {
                 if (location.hash !== '#blog-p1') {
                     document.querySelectorAll('.entry').forEach(el => {
-                        if(!el.querySelectorAll('a[href="'+location.hash+'"]').length){
-                            el.classList.add('hide');
-                        } else {
+                        if(location.hash === '#show-all') {
                             el.classList.remove('hide');
+                        } else {
+                            if(!el.querySelectorAll('a[href="'+location.hash+'"]').length){
+                                el.classList.add('hide');
+                            } else {
+                                el.classList.remove('hide');
+                            }
                         }
                     });
                 }

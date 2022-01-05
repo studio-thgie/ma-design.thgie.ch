@@ -311,6 +311,9 @@ div.pages .page .entry {
     width: 32%;
     transition: .25s;
 }
+div.pages .page .entry.hide {
+    display: none;
+}
 div.pages .page .entry .entry-meta {
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
     padding: 0 20px 20px;
