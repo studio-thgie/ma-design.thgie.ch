@@ -32,7 +32,13 @@
         document.addEventListener('DOMContentLoad', () => {
             window.addEventListener('hashchange', function() {
                 if (location.hash !== '#blog-p1') {
-                    console.log(location.hash);
+                    document.querySelectorAll('.entry').forEach(el => {
+                        if(!el.querySelectorAll('a[href="'+location.hash+'"]').length){
+                            el.classList.add('hide');
+                        } else {
+                            el.classList.remove('hide');
+                        }
+                    });
                 }
             }, false);
         })
