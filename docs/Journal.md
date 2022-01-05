@@ -19,7 +19,7 @@ The post are sorted from newest to oldest and can be filtered by the following t
     <a href="#project-development" class="blogging-tag"><code>#project-development</code></a>
     <a href="#reflexion" class="blogging-tag"><code>#reflexion</code></a>
     <a href="#research" class="blogging-tag"><code>#research</code></a>
-    <a href="#research-design" class="blogging-tag"><code>#research</code></a>
+    <a href="#research-design" class="blogging-tag"><code>#research-design</code></a>
     <a href="#workshop" class="blogging-tag"><code>#workshop</code></a>
     <a href="#writing" class="blogging-tag"><code>#writing</code></a>
 </div>

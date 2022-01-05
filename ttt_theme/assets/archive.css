@@ -299,22 +299,26 @@ ul.nav-h a:hover {
     text-decoration: none;
 }
 
+div.pages {
+    width: 100%;
+}
 div.pages .page {
     position: relative;
-    max-width: 100%;
+    width: 100%;
 }
 
-div.pages .page li {
+div.pages .page .entry {
     position: absolute;
+    width: 30%;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
     transition: .25s;
     padding-bottom: 20px;
 }
-div.pages .page li.subtitle {
+div.pages .page .entry.subtitle {
     box-shadow: none;
     grid-column: span 3;
 }
-div.pages .page li.subtitle  h3{
+div.pages .page .entry.subtitle  h3{
     margin: 0;
     padding: 0;
     max-width: 100%;
@@ -326,7 +330,7 @@ div.pages .page .entry-header {
 div.pages .page .entry-header-img {
     width: 100%;
 }
-div.pages .page li span {
+div.pages .page .entry span {
     display: block;
     padding: 0 20px;
 }
@@ -349,10 +353,7 @@ div.pages .page .entry-desc {
 }
 
 @media (max-width: 768px) {
-    div.pages .page {
-        grid-template-columns: 1fr;
-    }
-    div.pages .page .entry-header {
+    div.pages .page .entry {
         width: 100%;
     }
 }

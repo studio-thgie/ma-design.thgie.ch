@@ -1,7 +1,7 @@
 {% extends "blog.html" %}
 
 {% macro render_blog(title, description, time, url, page) -%}
-<li>
+<div class="entry">
     {% if page.meta['header'] %}
         <div class="entry-header">
             <img class="entry-header-img" src="{{ page.meta['header'] }}" loading="lazy">
@@ -23,6 +23,6 @@
     <a href="{{ url }}" target="_self">
         <span>Continue reading…</span>
     </a>
-</li>
+</div>
 {{ caller() }}
 {%- endmacro %}
