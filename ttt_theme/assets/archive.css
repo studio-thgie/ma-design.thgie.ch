@@ -265,10 +265,6 @@ li p {
     padding: 0;
 }
 
-div.pages .page {
-    display: table;
-}
-
 div.pages .page,
 ul.nav-h {
     padding: 0;
@@ -305,23 +301,20 @@ div.pages {
 div.pages .page {
     position: relative;
     width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1%;
+    row-gap: 20px;
 }
 
 div.pages .page .entry {
     position: absolute;
-    width: 30%;
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    width: 32%;
     transition: .25s;
-    padding-bottom: 20px;
 }
-div.pages .page .entry.subtitle {
-    box-shadow: none;
-    grid-column: span 3;
-}
-div.pages .page .entry.subtitle  h3{
-    margin: 0;
-    padding: 0;
-    max-width: 100%;
+div.pages .page .entry .entry-meta {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    padding: 20px;
 }
 div.pages .page .entry-header {
     width: 100%;
@@ -332,7 +325,6 @@ div.pages .page .entry-header-img {
 }
 div.pages .page .entry span {
     display: block;
-    padding: 0 20px;
 }
 div.pages .page .entry-date {
     font-size: .85rem;
@@ -349,7 +341,7 @@ div.pages .page .entry-desc {
     margin-bottom: 20px;
 }
 .blogging-tags-grid {
-    padding: 0 0 20px 20px;
+    padding: 0 0 20px 0;
 }
 
 @media (max-width: 768px) {

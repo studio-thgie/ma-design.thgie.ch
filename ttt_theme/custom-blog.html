@@ -7,22 +7,24 @@
             <img class="entry-header-img" src="{{ page.meta['header'] }}" loading="lazy">
         </div>
     {% endif %}
-    {% if page.meta['date'] %}
-            <span class="entry-date">{{ page.meta['date'] }}</span>
-    {% endif %}
-    <a href="{{ url }}" target="_self">
-        <span class="entry-title">{{ title }}</span>
-    </a>
-    {% if description %}
-        <span class="entry-desc">{{ description }}</span>
-    {% endif %}
-    {% if show_tags and "tags" in page.meta %}
-        {% call render_tags(page.meta["tags"], index_url) %}
-        {% endcall %}
-    {% endif %}
-    <a href="{{ url }}" target="_self">
-        <span>Continue reading…</span>
-    </a>
+    <div class="entry-meta">
+        {% if page.meta['date'] %}
+                <span class="entry-date">{{ page.meta['date'] }}</span>
+        {% endif %}
+        <a href="{{ url }}" target="_self">
+            <span class="entry-title">{{ title }}</span>
+        </a>
+        {% if description %}
+            <span class="entry-desc">{{ description }}</span>
+        {% endif %}
+        {% if show_tags and "tags" in page.meta %}
+            {% call render_tags(page.meta["tags"], index_url) %}
+            {% endcall %}
+        {% endif %}
+        <a href="{{ url }}" target="_self">
+            <span>Continue reading…</span>
+        </a>
+    </div>
 </div>
 {{ caller() }}
 {%- endmacro %}
