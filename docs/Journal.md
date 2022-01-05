@@ -7,6 +7,7 @@ The research log is a reflection on the process of this project, as well as ment
 The post are sorted from newest to oldest and can be filtered by the following tags.
 
 <div>
+    <a href="#show-all" class="blogging-tag"><code>Show all entries</code></a> - 
     <a href="#analysis" class="blogging-tag"><code>#analysis</code></a>
     <a href="#applied-research" class="blogging-tag"><code>#applied-research</code></a>
     <a href="#colloquia" class="blogging-tag"><code>#colloquia</code></a>
