@@ -1,7 +1,7 @@
 ---
 title: "Feedback for Colloquium 3"
 date: "2021-11-26"
-description: "The feedback for my third colloquium was benevolent and on point."
+description: "The feedback for my third colloquium was benevolent and on point. The final turn towards a social relevant application of voice assistants was good, but now I lack some depth in parts."
 header: "/assets/images/thumbs/IMG_20201215_130706.jpg"
 tags:
     - colloquia

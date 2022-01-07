@@ -1,7 +1,7 @@
 ---
 title: "It's interviews all the way down"
 date: "2021-12-13"
-description: "Doing participatory research during a pandemy often is reduced to a minimum. I was able to work around the limitations with a handfull of expert interviews."
+description: "Doing participatory research during a pandemy often is reduced to a minimum. I was able to work around the limitations with a handfull of additional expert interviews to discuss voice assistants as assistive technologies and my hypothesis. This way, I could make up a bit not being able to work directly with blind people."
 tags:
     - doing-research
     - methodologies

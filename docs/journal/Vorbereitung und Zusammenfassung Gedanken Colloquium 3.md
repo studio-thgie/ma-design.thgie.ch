@@ -5,7 +5,6 @@ header: "/assets/images/thumbs/2022-01-04-16-15-16.jpeg"
 description: "Im Gespräch mit Julia Geiser sind wir mein Forschungsvorhaben durchgegangen und haben die Dinge seit C2 Revue passieren lassen. Ein informelles Coaching sozusagen."
 tags:
 	- coaching
-	- review
 	- abstract
 ---
 # Vorbereitung und Zusammenfassung Gedanken Colloquium 3
