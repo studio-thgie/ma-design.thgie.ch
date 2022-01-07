@@ -3,11 +3,7 @@
 {% macro render_blog(title, description, time, url, page) -%}
 <div class="entry">
     {% if page.meta['header'] %}
-        <div class="entry-header">
-            <a href="{{ url }}" target="_self">
-                <img class="entry-header-img" src="{{ page.meta['header'] }}" loading="lazy">
-            </a>
-        </div>
+        <a href="{{ url }}" target="_self" class="entry-header" style="background-image: url('{{ page.meta['header'] }}');"></a>
     {% endif %}
     <div class="entry-meta">
         {% if page.meta['date'] %}

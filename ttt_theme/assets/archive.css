@@ -320,10 +320,10 @@ div.pages .page .entry .entry-meta {
 }
 div.pages .page .entry-header {
     width: 100%;
+    height: 400px;
     overflow: hidden;
-}
-div.pages .page .entry-header-img {
-    width: 100%;
+    background-size: cover;
+    background-position: center;
 }
 div.pages .page .entry span {
     display: block;
@@ -352,6 +352,9 @@ div.pages .page .entry-desc {
 @media (max-width: 768px) {
     div.pages .page .entry {
         width: 100%;
+    }
+    div.pages .page .entry-header {
+        height: 300px;
     }
 }
 
