@@ -4,7 +4,9 @@
 <div class="entry">
     {% if page.meta['header'] %}
         <div class="entry-header">
-            <img class="entry-header-img" src="{{ page.meta['header'] }}" loading="lazy">
+            <a href="{{ url }}" target="_self">
+                <img class="entry-header-img" src="{{ page.meta['header'] }}" loading="lazy">
+            </a>
         </div>
     {% endif %}
     <div class="entry-meta">
