@@ -1,7 +1,7 @@
 ---
 title: The Numbers
 date: "2021-10-18"
-description: "Eine kleine Recherche zu den Marktnummern von Sprachassistenten"
+description: "Eine kleine Recherche zu den Marktnummern von Sprachassistenten. Ich versuchte eine grobe Übersicht zu bekommen wie das Marktsegment zu Sprachassistenten aussieht."
 tags:
     - doing-research
     - analysis
