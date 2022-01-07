@@ -42,3 +42,51 @@ With [[Person DgaB8Q]]
 11:13 I: Sie haben dann gesagt. Die Produkte von Apple welche schon auf den Laptops oder iPhone funktionieren, zum Beispiel das VoiceOver, welches sehr beliebt ist, als genereller Screen Reader, der ist so schnell eingeschalten, nur ein Häckchen in den Preferenzen. Diese Produkte sind sehr beliebt.  
 
 11:39 P: Das sind halt auch eine völlig andere Kategorie von Produkten. Die Sprachsynthese ist schon ewig lange gelöst. Sprache verstehen ist schon etwas anderes.
+
+11:50 I: Und genaus aus diesem Grund sie Sprachassistenten oft für kleinere Tasks, wie zum Beispiel eine App öffnen oder den Hotspot aktivieren, wird dann gerne Siri gebraucht.  
+
+12:04 P: Siri läuft jetzt glaube ich zum Teil auch wirklich auf dem Phone, mit diesem machine-learning Prozessor den sie jetzt haben.
+
+12:11 I: Das es also gar nicht mehr über?
+
+12:14 P: Das nicht mehr alles übertragen werden muss. Wenn du ja etwas vom Telefon selber möchtest, ist die Domaine so eingeschränkt, dass es viel einfacher ist als allgemein verstehen zu wollen, was ich jetzt will.
+
+12:29 P: Ich sage immer "Alexa", aber das ist ja nur weil es sozusagen die Kategorie definiert hat und nicht... Mir ist es völlig egal ob es um Amazon geht oder eine andere Firma welche das gleiche macht. Es ist einfach das prototypische Beispiel.
+
+12:45 I: Sie machen es ja schon auch sehr viel einfacher, um damit zu entwickeln.
+
+12:53 P: Ja, es gibt so ein ganzes Ökosystem, welches ähnlich wie das App-Ökosystem ist. Aber ist trotzdem separat. Es hat enorm gute Ressourcen inzwischen um auf verschiedenen Abstraktionsleveln solche Apps zu kreiieren. Man kann von Templates ausgehen, für gewüsse Domainen gibt es solche Hilfsobjekte, zum Beispiel Home Automation, welche schon wissen was eine Lampe ist und ein Lichtschalter. Inzwischen kannst du Sprachapps auch besser direkt einbinden. Sonst musstest du immer sagen: "Alexa, ask Fischtank" und nacher eine Frage stellen. Um überhaupt zu meiner App zu kommen. Jetzt kann ich solche, weiss nicht mehr genau wie es heisst, nameless invocation oder so. Ich kann also solche Beispielsätze geben, auch für das Starten der App. Dann ist das natürlich zum Starten, dann muss ich mich nicht immer zuerst an Alexa wenden und ihr sagen, ob sie den Fischtank etwas fragen könne. Das ist ja auch unnatürlich.
+
+14:02 I: So gut! Du hattest mal erwähnt, glaube in einer Email, oder einen Kommentar zu Design von Konversationen gemacht. Das dich das noch interessieren würd. Konntest du da Erfahrungen sammeln, jetzt in deiner eigenen Arbeit oder im Kurs den du gibst. Wie so eine Konversation gestaltet wird, gibt es ja einerseits eine technische Ebene, wo Probleme gelöst werden müssen. Aber es gibt dann auch, was du eben angesprochen hast, es ist natürlicher zu sagen: "Hey Fischtank, hab ich meine Fische schon gefüttert?" anstatt "Alexa, frag Fischtank". Konntest du da Erfahrungen sammeln mit dem Design von solchen Konversationen?
+
+14:52 P: Das einzige was mir aufgefallen ist in letzter Zeit, ist, dass sie eine Art Session-Konzept hat. Wenn man mit Alexa spricht neuerdings. Vorher war es immer nur ein Request. Jetzt ist es wie eine Session, welche eine Zeit lang mitläuft und wahrscheinlich bewahrt sie da ein wenig Kontext auf, was man schon vorher gemacht hatte, in diesem Zusammenhang des einen Gespräches welches man am führen ist. Aber sonst, hab ich mich nicht so damit befasst. Ich habe einfach gesehen, dass es mehr solche Tools gibt und mehr Material zu diesem Thema. Das wäre eben eine grössere Sache um sich da einzuarbeiten. So wie das App Ökosystem jetzt auch etwas eigenes geworden ist. So wie, Web Entwicklung und App Entwicklung ost oberflächlich gesehen das gleiche, es ist Software, aber es ist trotzdem eine eigene Welt. Bei Voice Apps wird das auch so werden.
+
+16:02 I: Das mit dem Session-Model schau ich mir gerne mal an. Generell finde ich es relativ spannend. Aber mir ist auch bewusst, wie schnell dass dann eine Komplexität wächst. Mit jedem Satz oder Befehl, welcher dazu kommt, wächst natürlich die Komplexität exponentiell. Weil einfach soviel Informationen vorhanden sind, welche verwaltet werden müssen, mit verschiedenen Zusammenhängen.
+
+16:25 P: Ja, ein Stück weit. Wenn ich zum Beispiel eine Reise buchen möchte, dann ist ja klar was ich für Inputs haben muss. Und wenn sie diese Absicht erkennt hat, dann fragt sie halt nacher solange nach, bis sie alle dieser Inputs hat. Es ist ein wenig so gemacht.  
+
+16:41 I: Dann ist es eher so ein multi-step Formular.
+
+16:45 P: Ja, wenn ich sage: "Alexa, ich möchte in die Ferien", dann sagt sie zuerst mal, wohin möchtest du und nacher wann möchtest du. So schrittweise kommt sie immer näher. Und wenn du sagst: "Alex, buch mir morgen einen Flug nach London", dann weiss sie dass alles gleich in einem Satz.
+
+17:03 I: Konntest du schon Erfahrungen sammeln, mit Hilfttechnologien wie Screen Reader oder Spracherkennungssoftware? Hast du mit diesen mal rumgespielt?
+
+17:15 P: Ich hatte einen Studenten, welcher nichts sieht, und für in eine Prüfung angepasst. Damit er sie überhaupt lesen kann. Die Prüfung war sonst einfach ein PDF. Er hatte ein Textfile bevorzugt und in diesem Textfile musste es ASCII-mässige Marker haben. Diese konnte ich wählen, aber sie müssten konsistent sein. Damit konnte er in den Aufgaben rumspringen. Vom Interface her, dass er hatte, dieser Reader ist einfach wahnsinnig schnell. Uns würde es wahrscheinlich schlecht wenn wir diesem Reader zuhören würden. Für ihn war aber das einfach die Ansicht. Was mich extrem erstaunt hatte, wie fest diese Person ein Bild vom Source Code im Kopf hat. Was genau dem entspricht was ich sehe wenn ich drauf schaue, aber es ist ja trotzdem nicht das gleiche. Sie muss es so sequentiell reinladen und wir können einfach auf einen Blick die Struktur sehen.
+
+18:33 [irrelevant, Interviewer erzählt persönliche Geschichte]
+
+19:02 P: Man kann vielleicht sagen, dass das Gehirn eine gewissen Bandbreite hat. Wenn du dann kein Bild hast, hast du mehr frei für Ton, so zu sagen.
+
+19:23 I: Bist du aktuell noch mit Voice Assistants am arbeiten, nebst der Schule? Oder hast du das Gefühl, dass du in naher Zukunft mal etwas machen möchtest?
+
+19:34 P: Im Moment sind diese Sachen eher durch so Kollaboration der Fachhochscule mit der Industrie getrieben. Wenn jemand etwas in diese Richtung braucht, dann würde ich das gerne wieder ansehen. Im Moment sieht das nicht danach aus. Es ist ja auch oft bei diesen Sachen so, wenn man es sich am Anfang mal ansieht, dann hat man ein gutes Bild davon, wie es ungefähr funktioniert. Dann bleibt es meistens ein paar Jahre ähnlich. Es wird immer ausgefeilter, aber man hat trotzdem eine Idee davon, wie es funktioniert. Vielleicht gibt es irgendwann dann mal noch einen grossen Schritt, wie bei der App Programmierung vor und nach Android, oder vor dem iPhone und nach dem iPhone. Das ist ein riesen Unterschied. Dann ist diese Welt völlig neu geworden. Vielleicht gibt es so etwas auch bei den Sprach Apps, aber jetzt im Moment ist bis jetzt eigentlich gleich geblieben von den Grundkonzepten her. Darum habe ich einfach das Gefühl, ich verstehe worum es im Moment geht. Ich werde nicht Voice App Profi, oder! Bis es diese gibt bin ich mal noch gut informiert und dann gibt es ja dann diese Leute die das besser können. So wie es jetzt App und Webdesigner gibt.
+
+20:58 I: Da hast du sozusagen eine gesunde Übersicht verschafft.  
+
+21:03 P: Ja, um einfach grundsätzlich mal zu verstehen um was es da geht.
+
+21:08 I: Wenn du sagst, es gibt solche grössen Sprünge, was wäre denn für dich ein wünschenswerter grösser Sprung in der Weiterentwicklung von solchen Sprachassistenz-Technologien? Wenn du spekulieren dürftest, völlig frei.
+
+21:27 P: Im Moment ist mir da zu wenig bewusst was die Probleme sind. Klar, natürlicher Sprechen wäre ein Ziel. Das wäre bei diesen general AI am Schluss das Ziel. Das ich mit einem Gerät sprechen kann wie mit einem Mensch. Weiss jetzt nicht ob das so wichtig ist, dass das schnell Realität wird. Wie hiessen die schon wieder, Berg, früher haben sie Schultze und Web geheissen. Das ist ein Design Büro. Die hatten mal das be as smart as a puppy Prinzip. Wenn ein Gerät smart ist, muss es nicht gleich smart sein wie eine andere Person. Es reicht wenn es so smart ist wie ein junger Hund, welchem wir auch gewisse Fehler verzeihen. Solange ungefähr etwas dabei heraus springt was für uns auch ein Vorteil ist. Von dem her, wäre das eigentlich ganz ok, wenn diese ganzen Geräte im Haus wenigstens so smart wären und so harmlos.
+
+22:49 I: Find ich super, so harmlos wie ein Puppy.
