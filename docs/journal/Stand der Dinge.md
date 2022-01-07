@@ -3,7 +3,9 @@ title: "Stand der Dinge"
 date: "2020-03-20"
 header: "/assets/images/thumbs/IMG_20210108_134248.jpg"
 tags:
-    - reflexion
+    - review
+    - abstract
+    - output
 description: "Eine kurze Reflexion darüber, was passiert ist, und wie es weiter gehen soll."
 ---
 # Stand der Dinge

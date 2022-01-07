@@ -3,6 +3,9 @@ title: Prototyping I
 date: "2021-10-22"
 description: "A brief overview, documentation and reflection of the prototyping and testing on voice assistants done in the last semester. The most important take-away: This needs to be a group effort."
 header: "/assets/images/thumbs/Screenshot_2021-10-24_at_11.11.50.png"
+tags:
+    - methodologies
+    - review
 ---
 # Prototyping I
 Ausgehend von der [[Thematic Analysis]] vor dem zweiten Colloquium wollte ich im letzten Semester erste Entwicklungen mit den eigenen Ansätzen bezüglich Sprachassistenten umsetzen. Dazu galt es einerseits eine Entwicklungsumgebung (Tech Stack) aufzubauen, welche Rapid Prototyping erlaubt und andererseits zu definieren, wie diese ersten Prototypen genau zu funktionieren haben und wie sie testbar werden. Parallele Entwicklungen [[Vorbereitung und Zusammenfassung Gedanken für C3|bezüglich der Erkundung der sozialen/Relevanz]] haben den Prototypen dann noch einen zusätzlichen Dreh gegeben.

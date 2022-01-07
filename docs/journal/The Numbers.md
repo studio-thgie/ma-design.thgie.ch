@@ -3,7 +3,8 @@ title: The Numbers
 date: "2021-10-18"
 description: "Eine kleine Recherche zu den Marktnummern von Sprachassistenten"
 tags:
-    - research
+    - doing-research
+    - analysis
 header: "/assets/images/thumbs/IMG_20201113_172822.jpg"
 ---
 # The Numbers

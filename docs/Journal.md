@@ -6,23 +6,25 @@ The research log is a reflection on the process of this project, as well as ment
 
 The post are sorted from newest to oldest and can be filtered by the following tags.
 
-<div>
+<div class="tag-filter">
     <a href="#show-all" class="blogging-tag"><code>Show all entries</code></a> - 
+    <a href="#abstract" class="blogging-tag"><code>#abstract</code></a>
     <a href="#analysis" class="blogging-tag"><code>#analysis</code></a>
-    <a href="#applied-research" class="blogging-tag"><code>#applied-research</code></a>
+    <a href="#coaching" class="blogging-tag"><code>#coaching</code></a>
     <a href="#colloquia" class="blogging-tag"><code>#colloquia</code></a>
     <a href="#conference" class="blogging-tag"><code>#conference</code></a>
     <a href="#course" class="blogging-tag"><code>#course</code></a>
+    <a href="#doing-research" class="blogging-tag"><code>#doing-research</code></a>
     <a href="#fieldtrip" class="blogging-tag"><code>#fieldtrip</code></a>
     <a href="#literature" class="blogging-tag"><code>#literature</code></a>
     <a href="#methodologies" class="blogging-tag"><code>#methodologies</code></a>
+    <a href="#output" class="blogging-tag"><code>#output</code></a>
     <a href="#participants" class="blogging-tag"><code>#participants</code></a>
     <a href="#project-development" class="blogging-tag"><code>#project-development</code></a>
-    <a href="#reflexion" class="blogging-tag"><code>#reflexion</code></a>
-    <a href="#research" class="blogging-tag"><code>#research</code></a>
+    <a href="#review" class="blogging-tag"><code>#review</code></a>
     <a href="#research-design" class="blogging-tag"><code>#research-design</code></a>
+    <a href="#thesis" class="blogging-tag"><code>#thesis</code></a>
     <a href="#workshop" class="blogging-tag"><code>#workshop</code></a>
-    <a href="#writing" class="blogging-tag"><code>#writing</code></a>
 </div>
 
 {{ blog_content }}

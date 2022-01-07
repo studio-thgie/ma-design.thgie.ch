@@ -3,7 +3,7 @@ title: "Teilnehmer*innen"
 date: "2020-10-22"
 description: "Ich suche nun seit drei Wochen nach Teilnehmer*innen und werde nicht wirklich fündig. Partizipanden für ein Forschungsprojekt zu suchen ist nicht einfach..."
 tags:
-    - applied-research
+    - doing-research
     - participants
 header: "/assets/images/thumbs/IMG_20201203_211954.jpg"
 ---

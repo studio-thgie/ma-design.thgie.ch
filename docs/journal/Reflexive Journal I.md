@@ -4,7 +4,7 @@ date: "2021-01-29"
 description: "Part 1 of the thematic analysis reflexive journal. I worked through all of the interviews and the observation and added codes where I found them appropriate."
 tags:
     - analysis
-    - applied-research
+    - doing-research
     - methodologies
 header: "/assets/images/thumbs/IMG_20201210_155933.jpg"
 ---

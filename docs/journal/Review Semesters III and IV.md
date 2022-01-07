@@ -3,7 +3,9 @@ title: "Review Semesters III and IV"
 date: "2021-04-16"
 description: "In here I try to let the two last semester sink in a tad or two. A lot has happened inside and outside of the project."
 tags:
-    - reflexion
+    - review
+    - output
+    - project-development
 header: "/assets/images/thumbs/IMG_20210213_133854.jpg"
 ---
 # Review Semesters III and IV

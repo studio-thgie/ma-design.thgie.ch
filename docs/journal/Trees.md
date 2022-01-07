@@ -4,7 +4,7 @@ description: "The seminar, lead by Dr. Hanspeter Znoy, looked at how capitalist 
 header: "/assets/images/thumbs/Matsutake-Hunt-2019-How-to-Hunt-Matsutake-in-the-Midwest-3-2.jpg"
 tags:
     - course
-    - writing
+    - output
 ---
 # Trees
 Aug 31, 2020

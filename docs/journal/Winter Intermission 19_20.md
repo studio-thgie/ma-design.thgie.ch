@@ -3,7 +3,8 @@ date: "2019-12-26"
 description: "My last coaching session brought some clarification into how I should formulate a research question. An important part of the question, and what I often do wrong, is to take care of built in assumptions."
 header: "/assets/images/thumbs/IMG_20201203_212136.jpg"
 tags:
-    - reflexion
+    - review
+    - coaching
 ---
 
 # Winter Intermission 19/20

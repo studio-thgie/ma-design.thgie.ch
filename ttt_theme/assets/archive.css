@@ -345,6 +345,9 @@ div.pages .page .entry-desc {
 .blogging-tags-grid {
     padding: 0 0 20px 0;
 }
+.tag-filter {
+    max-width: 768px;
+}
 
 @media (max-width: 768px) {
     div.pages .page .entry {

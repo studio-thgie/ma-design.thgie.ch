@@ -2,7 +2,7 @@
 date: "2020-02-05"
 description: "In this entry I would love to briefly capture the state of the project and the process so far. Just half a year into my studies and everything is different, it seems."
 tags:
-    - reflexion
+    - review
     - project-development
 header: "/assets/images/thumbs/IMG_20201112_151111.jpg"
 ---

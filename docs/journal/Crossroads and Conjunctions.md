@@ -3,7 +3,8 @@ title: "Crossroads and Conjunctions"
 date: "2021-02-27"
 description: "I reached kind of a crossroad in my project, but it's a messy one. It's not just that one path intersects with the one I was on. The path I'm on has no straight continuation from this point onwards."
 tags:
-    - reflexion
+    - review
+    - project-development
 header: "/assets/images/thumbs/IMG_20210102_165639.jpg"
 ---
 # Crossroads and Conjunctions

@@ -3,6 +3,7 @@ date: "2020-10-02"
 description: "Für das dritte und vierte Semester ist Forschung angesagt. Gemäss dem Research Plan brauche ich dazu eine handvoll Teilnehmer*innen mit welchen ich durch ethnografische Methoden arbeiten kann, sowie den Fokus auf eine Technologie."
 tags:
     - research-design
+    - participants
 header: "/assets/images/thumbs/IMG_20210106_175037.jpg"
 ---
 

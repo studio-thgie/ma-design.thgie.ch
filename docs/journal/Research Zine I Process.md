@@ -4,6 +4,7 @@ date: "2021-02-05"
 description: "I made a Research Zine! It was time-consuming but worth it. I'm super proud of it and learned about how to work with Riso on the side..."
 tags:
     - project-development
+    - output
 header: "/assets/images/thumbs/IMG_20210213_100207.jpg"
 ---
 # Research Zine Process

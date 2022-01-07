@@ -6,6 +6,7 @@ description: "The main goal of the workshop, to have a workable idea for a proto
 tags:
     - workshop
     - analysis
+    - methodologies
 ---
 # Evaluation of Expert Workshop
 Feb 18, 2021
