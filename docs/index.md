@@ -1,3 +1,7 @@
+---
+title: "Home"
+---
+
 # Talking (to) Things
 ## A comparative exploration of voice assistants as assistive technologies for blind people
 
