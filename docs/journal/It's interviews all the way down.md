@@ -10,9 +10,9 @@ header: "/assets/images/thumbs/IMG_20201203_212152.jpg"
 ---
 
 # It's interviews all the way down
-During my last semester I worked mainly through expert interviews, five in numbers, to be specific. The first set. in August and September focused on understanding the place assistive tech and voice assistants play in the life of people with impairments. The last two interview were specific hovering around voice assistants as assistive tech for blind people.
+During my last semester I worked mainly through expert interviews, five in numbers, to be specific. The first set in August and September focused on understanding the place assistive tech and voice assistants play in the life of people with impairments. The last two interviews were specificly hovering around voice assistants as assistive tech for blind people.
 
-While as the first set helped me setup the research focus the second helped me validate my hypothesis to a certain degree.
+Where as the first set helped me setup the research focus the second helped me validate my hypothesis to a certain degree.
 
 ## Voice assistants as assistive technologies
 

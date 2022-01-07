@@ -6,6 +6,7 @@ description: "Im Gespräch mit Julia Geiser sind wir mein Forschungsvorhaben dur
 tags:
     - abstract
     - review
+    - colloquia
 ---
 # Vorbereitung und Zusammenfassung Gedanken Colloquium 3
 Im Gespräch mit Julia Geiser sind wir mein Forschungsvorhaben durchgegangen und haben die Dinge seit C2 Revue passieren lassen.
