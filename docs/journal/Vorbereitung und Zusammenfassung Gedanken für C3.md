@@ -12,6 +12,7 @@ tags:
 Im Gespräch mit Julia Geiser sind wir mein Forschungsvorhaben durchgegangen und haben die Dinge seit C2 Revue passieren lassen.
 
 *Punkte die besprochen oder angerissen wurde*
+
 - Wer ist die Zielgruppe
 - Wo wird was publiziert, nebst der vorgeschlagenen Publikation
 - Warum digitale Publikation
@@ -26,11 +27,11 @@ Ich möchte in der Folge einige dieser Punkte angehen sowie weitere wichtige Ged
 ## Relevanz der Auseinandersetzung mit Sprach-/Assistenz-Technologien
 Es gibt deren zwei Relevanzen die zu berücksichtigen sind.
 
-1. Ökologischer Impakt gepaart mit Adaption der Technologie
+1) Ökologischer Impakt gepaart mit Adaption der Technologie
 
 Sprachassistent-Technologien, entweder als Applikation auf dem Smartphone oder als eigenständiges Gerät sind eine der am schnellst wachsenden Technologien derzeit[^1]. Sprachassistenten sind materiell und in Sachen Software in komplexe Ökosystem eingebunden. Dabei werden in Produktion, Betrieb und Entsorgung enorme Ressourcen gebraucht, und der Planet schwer belastet. Ein Fakt welcher von GAFA[^2] nicht gerne angesprochen wird, wie aktivistische Projekte aufzeigen konnten[^3]. Die Adaption von Sprachassistenz-Geräten ist seit der Covid-Pandemie stark angestiegen[^4].
 
-2. Design-Narrativ/Imagination von Sprachassistenz-Technologien
+2) Design-Narrativ/Imagination von Sprachassistenz-Technologien
 
 Was ein Sprachassistent sein kann, dessen Imagination und Möglichkeitsraum, wird derzeit von GAFA vorgegeben. Das bringt ein grosses Problem mit sich. Ich bin mir sicher, dass Google und Amazon grossartige Forschung betreiben, deren Ergebnisse jedoch nicht relevant für die jeweiligen Businessmodelle sind. Als Profit-getriebene Unternehmungen muss sich das heere Ziel der Welt-Verbesserung dem finanziellen Gewinn unterstellen.
 
