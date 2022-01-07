@@ -2,9 +2,9 @@
 title: "Vorbereitung und Zusammenfassung Gedanken Colloquium 3"
 date: "2021-09-16"
 tags:
-	- review
-	- abstract
-	- coaching
+    - project-development
+    - colloquia
+    - abstract
 ---
 # Vorbereitung und Zusammenfassung Gedanken Colloquium 3
 Im Gespräch mit Julia Geiser sind wir mein Forschungsvorhaben durchgegangen und haben die Dinge seit C2 Revue passieren lassen.
