@@ -7,7 +7,7 @@
     {% endif %}
     <div class="entry-meta">
         {% if page.meta['date'] %}
-                <span class="entry-date">{{ page.meta['date'] }}</span>
+            <span class="entry-date" aria-description="The article's date">{{ page.meta['date'] }}</span>
         {% endif %}
         <h3>
             <a href="{{ url }}" target="_self">
@@ -21,7 +21,7 @@
             {% call render_tags(page.meta["tags"], index_url) %}
             {% endcall %}
         {% endif %}
-        <a href="{{ url }}" target="_self">
+        <a href="{{ url }}" target="_self" aria-label="Continue reading">
             <span>Continue reading…</span>
         </a>
     </div>

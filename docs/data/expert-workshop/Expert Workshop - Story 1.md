@@ -12,4 +12,4 @@ Dem Entscheid liegt zugrunde, dass die Technologie in all unsere Lebensbereiche 
 
  eine Öffnung des Marktes für die spracherkennungs Technologie soll dazu führen, dass lokal agierende Anbieter auch lokal haftbar gemacht werden können und geltende Persönlichkeitsrechte besser durchgesetzt werden können.
  
- ![IMG_20210219_145329.jpg](/assets/images/IMG_20210219_145329.jpg)
+ ![Das Foto zeigt eine Aufnahme der handgeschriebenen Geschichte, welche oben transkribiert wurde.](/assets/images/IMG_20210219_145329.jpg)

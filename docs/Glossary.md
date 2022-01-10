@@ -27,7 +27,7 @@ Derived from the philosophy of Heidegger, ontological design essentially is sayi
 The study of technology in terms of the relations between human beings and technological artifacts, focusing on the various ways in which technologies help to shape relations between human beings and the world.
 
 ## [[Privacy]]
-![132438056_889816478422538_2060106273701229122_n.jpg](/assets/images/132438056_889816478422538_2060106273701229122_n.jpg)
+![An illustration of Elv on a Shelf sitting next to an Amazon Echo device. The elv is asking the voice assistant how it got into the spy game.](/assets/images/132438056_889816478422538_2060106273701229122_n.jpg)
 
 ## [[User-centered design]] (UCD)
 User-centered design is a design approach that places users' needs, wants, and desires at the center of the design process. It ensures that these needs and desires drive the development of a product, system, or service.
