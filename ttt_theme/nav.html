@@ -1,7 +1,0 @@
-{% if nav|length>1 %}
-    <ul class="nav-h">
-    {% for nav_item in nav %}
-        <li><a target="_self" href="{{ nav_item.url|url }}">{{ nav_item.title }}</a></li>
-    {% endfor %}
-    </ul>
-{% endif %}
