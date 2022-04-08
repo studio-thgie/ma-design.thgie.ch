@@ -363,7 +363,7 @@ div.pages .page p {
 /* nav */
 nav {
     display: flex;
-    justify-content: space-between;
+	gap: 1rem;
 }
 nav a {
     text-decoration: none;
