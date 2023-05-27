@@ -2,7 +2,7 @@
 *Conducted in German*
 
 - I: Interviewer
-- P: [[Person 0TFKnT]]
+- P: [Person 0TFKnT](data/people/Person%200TFKnT.md)
 
 ---
 
@@ -12,15 +12,15 @@
 
 00:12 I: Genau, das geht dann wieder weg wenn ich aufhöre. Also, fangen wir doch gleich an. Ich möchte dir nicht zuviel von deiner Zeit stehlen. Und ich wollte dich zuerst ein paar grundlegende Dinge fragen. Und zwar, du hast ja recht viele dieser Amazon Echos zuhause.
 
-00:34 P: Ja, weiss gar nicht, 8 oder 9. ([[home automation statistics]])
+00:34 P: Ja, weiss gar nicht, 8 oder 9. ([home automation statistics](home%20automation%20statistics))
 
 00:36 I: 8 oder 9? Wann hast du angefangen, diese Geräte zu kaufen?  
 
-00:43 I: Also gleich wo sie erschienen sind. Also ich hab mich beworben um eine Einladung. Die ersten die gabs ja nur auf Einladung. Und, da hab ich eine gekriegt. Hab das ausprobiert und das hat mir dann recht gut gefallen. Und dann hab ich halt so nach und nach hab ich immer mal wieder eine dazu gekauft. ([[exclusive access to ecosystem]])
+00:43 I: Also gleich wo sie erschienen sind. Also ich hab mich beworben um eine Einladung. Die ersten die gabs ja nur auf Einladung. Und, da hab ich eine gekriegt. Hab das ausprobiert und das hat mir dann recht gut gefallen. Und dann hab ich halt so nach und nach hab ich immer mal wieder eine dazu gekauft. ([exclusive access to ecosystem](output/codes/exclusive%20access%20to%20ecosystem.md))
 
 01:03 I: Ja. Weiss du noch welches Jahr das ungefähr war?  
 
-01:08 P: Oh, das ist jetzt, was haben wir jetzt. 2020. Das müsste 2017 oder 18 gewesen sein. Also ich könnte genau nachschauen, bei den Amazon Rechnungen. ([[timeline of aquisation]])
+01:08 P: Oh, das ist jetzt, was haben wir jetzt. 2020. Das müsste 2017 oder 18 gewesen sein. Also ich könnte genau nachschauen, bei den Amazon Rechnungen. ([timeline of aquisation](output/codes/timeline%20of%20aquisation.md))
 
 01:20 I: Nein, dass musst du nicht. Es reicht mich ungefähr.  
 
@@ -30,19 +30,19 @@
 
 01:41 I: Ja genau.  
 
-01:42 P: Also Sprachassistenten hab ich sonst keinen. Also kein eigenes Gerät, es gibt ja noch den Google. Aber ich hab kein anderes Gerät ausser diesen Amazon Geräten, weil ich denk es macht keinen Sinn da mit mehreren zu arbeiten. Ich glaube auch nicht, dass da grosse Unterschiede sind. ([[locked into ecosystem]])
+01:42 P: Also Sprachassistenten hab ich sonst keinen. Also kein eigenes Gerät, es gibt ja noch den Google. Aber ich hab kein anderes Gerät ausser diesen Amazon Geräten, weil ich denk es macht keinen Sinn da mit mehreren zu arbeiten. Ich glaube auch nicht, dass da grosse Unterschiede sind. ([locked into ecosystem](output/codes/locked%20into%20ecosystem.md))
 
 02:04 I: Wie oft brauchst du die Sprachassistenten am Tag?  
 
-02:09 P: Ja, schon oft, also. **lacht** Ich kanns dir jetzt schlecht sagen, aber, vielleicht zwanzig Mal oder so? ([[usage frequency]])
+02:09 P: Ja, schon oft, also. **lacht** Ich kanns dir jetzt schlecht sagen, aber, vielleicht zwanzig Mal oder so? ([usage frequency](output/codes/usage%20frequency.md))
 
 02:19 I: Schon auch mehrmals pro Stunde, dann?  
 
-02:21 P: Ja, wie gesagt es kommt darauf an. Es gibt viele Sachen die man damit machen kann. Also sich einen Timer stellen, oder dergleichen mehr, also. Licht an, Licht aus, ja. Also da gibt es schon viele Sachen. ([[setting a timer]], [[controlling the light]])
+02:21 P: Ja, wie gesagt es kommt darauf an. Es gibt viele Sachen die man damit machen kann. Also sich einen Timer stellen, oder dergleichen mehr, also. Licht an, Licht aus, ja. Also da gibt es schon viele Sachen. ([setting a timer](output/codes/setting%20a%20timer.md), [controlling the light](output/codes/controlling%20the%20light.md))
 
 02:38 I: Gibts was spezielles, wofür du es oftmals brauchst. Oder ist es einfach wirklich so durch den Alltag durch, dass sie dich begleiten?  
 
-02:48 P: Lass mich mal nachdenken. Also, wahrscheinlich werd ichs am häufigsten hernehmen um Geräte zu steuern. Also zum Beispiel das Licht einzuschalten oder auszuschalten. Sicherlich auch Musik hören, ja. Also das man irgendwie, "Spiel Bayern 3" oder "Spiel Deep Purple" oder keine Ahnung. So Sachen halt. Und was halt auch noch praktisch ist sind die Erinnerungen. Nah, also, man sagt was weiss ich, an irgendwas erinnern, ein Termin. Zum Beispiel an das Interview mit dem Adrian, ja. **lachen** ([[automated light]], [[controlling the home]], [[controlling the light]], [[controlling the music]], [[memory delegation]], [[setting reminders]])
+02:48 P: Lass mich mal nachdenken. Also, wahrscheinlich werd ichs am häufigsten hernehmen um Geräte zu steuern. Also zum Beispiel das Licht einzuschalten oder auszuschalten. Sicherlich auch Musik hören, ja. Also das man irgendwie, "Spiel Bayern 3" oder "Spiel Deep Purple" oder keine Ahnung. So Sachen halt. Und was halt auch noch praktisch ist sind die Erinnerungen. Nah, also, man sagt was weiss ich, an irgendwas erinnern, ein Termin. Zum Beispiel an das Interview mit dem Adrian, ja. **lachen** ([automated light](output/codes/automated%20light.md), [controlling the home](output/codes/controlling%20the%20home.md), [controlling the light](output/codes/controlling%20the%20light.md), [controlling the music](output/codes/controlling%20the%20music.md), [memory delegation](output/codes/memory%20delegation.md), [setting reminders](output/codes/setting%20reminders.md))
 
 03:29 I: Hat es dich daran erinnert?  
 
@@ -50,23 +50,23 @@
 
 03:32 I: Hat es dich wirklich daran erinnert?  
 
-03:35 P: Ich hatte es eingetragen, im Google Kalender. Und dann krieg ich ja automatisch auch die Ansage von den Echo Geräten, ja. ([[convenience through automation]])
+03:35 P: Ich hatte es eingetragen, im Google Kalender. Und dann krieg ich ja automatisch auch die Ansage von den Echo Geräten, ja. ([convenience through automation](output/codes/convenience%20through%20automation.md))
 
 03:45 I: Super. Hast du viele Geräte angeschlossen in deinem Haus. Also jetzt wie zum Beispiel das Licht, das automatisierte Licht, oder  
 
-03:58 P: Ja, schon einiges. Also, Licht habe ich in sehr vielen Räumen, ja. Gut, auch die Heizung. Also sprich in jedem, fast in jedem Raum ist ein Heizkörperthermostat. So ein Thermostatkopf, die auch über die Alexa gesteuert werden können. Da kommt schon einiges zusammen. Dann noch einige Steckdosen, ja, wo verschiedene Sachen dranhängen ja. Also ist schon einiges. Wobei nicht alles, also sozusagen, ich hab verschiedene. Wie soll ich sagen, ich fahr das auf verschiedenen Schienen. Über die Alexa selber, also über Alexa selber steuer ich eigentlich nicht so sehr viel. Das meiste läuft dann über eine Steuerungszentrale von der Firma inogi. Also das ist die Heizung, ja. Oder auch über die Hue, über den Hue Hub, ja, von Philipps. Beziehungsweise noch über ein Gerät, dass ich auf einem kleinen Mini-PC laufen hab, das nennt sich ioBroker, ja. Alles schön verteilt. Das hat den Vorteil, wenn mal irgendetwas ausfällt, dann fällt nicht alles aus, sondern nur ein Teil. Ganz praktisch.  ([[automated light]], [[controlling the temperature]], [[controlling the electricity]], [[multiple software ecosystems]], [[safety in diversity]])
+03:58 P: Ja, schon einiges. Also, Licht habe ich in sehr vielen Räumen, ja. Gut, auch die Heizung. Also sprich in jedem, fast in jedem Raum ist ein Heizkörperthermostat. So ein Thermostatkopf, die auch über die Alexa gesteuert werden können. Da kommt schon einiges zusammen. Dann noch einige Steckdosen, ja, wo verschiedene Sachen dranhängen ja. Also ist schon einiges. Wobei nicht alles, also sozusagen, ich hab verschiedene. Wie soll ich sagen, ich fahr das auf verschiedenen Schienen. Über die Alexa selber, also über Alexa selber steuer ich eigentlich nicht so sehr viel. Das meiste läuft dann über eine Steuerungszentrale von der Firma inogi. Also das ist die Heizung, ja. Oder auch über die Hue, über den Hue Hub, ja, von Philipps. Beziehungsweise noch über ein Gerät, dass ich auf einem kleinen Mini-PC laufen hab, das nennt sich ioBroker, ja. Alles schön verteilt. Das hat den Vorteil, wenn mal irgendetwas ausfällt, dann fällt nicht alles aus, sondern nur ein Teil. Ganz praktisch.  ([automated light](output/codes/automated%20light.md), [controlling the temperature](output/codes/controlling%20the%20temperature.md), [controlling the electricity](output/codes/controlling%20the%20electricity.md), [multiple software ecosystems](output/codes/multiple%20software%20ecosystems.md), [safety in diversity](output/codes/safety%20in%20diversity.md))
 
 05:21 P: Ok. Dann, dass erinnert mich. Ich habe letzte Woche ein Interview geführt. Der Mensch der hat 140 Glühbirnen, die er alle ansprechen kann. Ist ein bisschen ähnlich wie bei dir. Er hat auch, glaube ich, ioBroker oder etwas ähnliches. Ihm ist aber aufgefallen, dass sich die Software von Alexa ab und zu aktualisiert. Und zum Beispiel gewisse Szenen nicht mehr erkennt. Also, dass der Befehl, den er bis jetzt gebraucht hatte, der plötzlich nicht mehr funktioniert. Hast du?  
 
-06:02 I: Ja, bei Alexa passiert das öfters, leider ja. Also was ich jetzt vor kurzem hatte, das war, ich habe so verschiedene Musiklisten. Ich hab eine Liste die heisst Liste Eins, ja. Und wenn ich, die ist in einer Routine hab ich das, und wenn ich die aufgerufen hab, dann hat die Liste Zwei gespielt. ([[unintended changes in settings]], [[music lists]])
+06:02 I: Ja, bei Alexa passiert das öfters, leider ja. Also was ich jetzt vor kurzem hatte, das war, ich habe so verschiedene Musiklisten. Ich hab eine Liste die heisst Liste Eins, ja. Und wenn ich, die ist in einer Routine hab ich das, und wenn ich die aufgerufen hab, dann hat die Liste Zwei gespielt. ([unintended changes in settings](output/codes/unintended%20changes%20in%20settings.md), [music lists](output/codes/music%20lists.md))
 
 06:23 I: Ok  
 
-06:23 P: Das hat jahrelang, also hat das funktioniert und plötzlich spielt sie Liste Zwei. Dann habe ich nachgesehen und hab sie dann explizit aufgerufen. "Spiel Liste Eins", dann hat sie gesagt, ich kann Liste Eins in deiner Musikbibliothek nicht finden, ja. Sie war aber da. Und dann hab ich mir gedacht, rutsch mir den Buckel runter, ja. Und plötzlich geht es wieder, ja. Das ist ein bisschen ein Problem, weil, und das wirst du auch in vielen Postings zu lesen kriegen, dass die Leute sich da darüber ärgern, dass, das Amazon da immer wieder rumspielt. Und dann Sachen plötzlich nicht mehr funktionieren, die immer funktioniert haben. Das ist auch ärgerlich, weisst du. Und wenn du dann anrufst beim Support, dann sagen sie setzen sie ihr Gerät zurück, ja. Das ist lustig wenn du, was weiss ich, da 50 Routinen dir gemacht hast und dieses und jenes und dann setz das mal zurück. Dann bist du nämlich ein paar Stunden damit beschäftigt bis das wieder eingerichtet hast, ja. Also das ist ein bisschen unschön. ([[broken consistency in functionality]], [[trying to figure out what is happening]], [[changes by third party]], [[unintended changes in settings]])
+06:23 P: Das hat jahrelang, also hat das funktioniert und plötzlich spielt sie Liste Zwei. Dann habe ich nachgesehen und hab sie dann explizit aufgerufen. "Spiel Liste Eins", dann hat sie gesagt, ich kann Liste Eins in deiner Musikbibliothek nicht finden, ja. Sie war aber da. Und dann hab ich mir gedacht, rutsch mir den Buckel runter, ja. Und plötzlich geht es wieder, ja. Das ist ein bisschen ein Problem, weil, und das wirst du auch in vielen Postings zu lesen kriegen, dass die Leute sich da darüber ärgern, dass, das Amazon da immer wieder rumspielt. Und dann Sachen plötzlich nicht mehr funktionieren, die immer funktioniert haben. Das ist auch ärgerlich, weisst du. Und wenn du dann anrufst beim Support, dann sagen sie setzen sie ihr Gerät zurück, ja. Das ist lustig wenn du, was weiss ich, da 50 Routinen dir gemacht hast und dieses und jenes und dann setz das mal zurück. Dann bist du nämlich ein paar Stunden damit beschäftigt bis das wieder eingerichtet hast, ja. Also das ist ein bisschen unschön. ([broken consistency in functionality](output/codes/broken%20consistency%20in%20functionality.md), [trying to figure out what is happening](output/codes/trying%20to%20figure%20out%20what%20is%20happening.md), [changes by third party](output/codes/changes%20by%20third%20party.md), [unintended changes in settings](output/codes/unintended%20changes%20in%20settings.md))
 
 07:30 I: Fallen dir gerade noch andere Hindernisse ein, die du im täglichen Gebrauch mit den Alexas antriffst?  
 
-07:38 P: Ja wie gesagt, dass sie halt manchmal schwerhörig ist, ja. Das kannst du aber auch vielfach lesen im Internet. Das ist auch kaum zu verstehen. Ja wie gesagt, dass da bei Amazon, dass die immer da rumspielen und rummachen, ja. Also jetzt ganz aktueller Fall, plötzlich gab es eine neue Stimme. Wenn du Musik hören wolltest, ist eine andere Stimme gekommen. Finde die Stimme von der Original-Stimme sehr angenehm und hatte mir jetzt überhaupt nicht gefallen. Andere auch nicht, ja. Und die machen das dann einfach und sagen nichts, fragen nichts. Ja, und das ist nicht schön, nah. Das sollte man nicht tun. So Datenrechtliche Bedenken habe ich keine. Ich denke, da muss man keine Angst haben, aber das muss auch jeder mit sich selbst abmachen. ([[assistant cant hear]] [[common information online]], [[third party plays around]], [[changes in assistant voice]], [[third party doesnt communicate]]) 
+07:38 P: Ja wie gesagt, dass sie halt manchmal schwerhörig ist, ja. Das kannst du aber auch vielfach lesen im Internet. Das ist auch kaum zu verstehen. Ja wie gesagt, dass da bei Amazon, dass die immer da rumspielen und rummachen, ja. Also jetzt ganz aktueller Fall, plötzlich gab es eine neue Stimme. Wenn du Musik hören wolltest, ist eine andere Stimme gekommen. Finde die Stimme von der Original-Stimme sehr angenehm und hatte mir jetzt überhaupt nicht gefallen. Andere auch nicht, ja. Und die machen das dann einfach und sagen nichts, fragen nichts. Ja, und das ist nicht schön, nah. Das sollte man nicht tun. So Datenrechtliche Bedenken habe ich keine. Ich denke, da muss man keine Angst haben, aber das muss auch jeder mit sich selbst abmachen. ([assistant cant hear](output/codes/assistant%20cant%20hear.md) [common information online](output/codes/common%20information%20online.md), [third party plays around](output/codes/third%20party%20plays%20around.md), [changes in assistant voice](output/codes/changes%20in%20assistant%20voice.md), [third party doesnt communicate](output/codes/third%20party%20doesnt%20communicate.md)) 
 
 08:32 I: Ja. Gut, also. Ich, als nächstes würde ich dir ein paar Begriffe geben. Und du darfst einfach frei assoziieren was dir dazu einfällt. 
 
@@ -86,15 +86,15 @@
 
 09:15 I: Gibt es für dich denn einen Unterschied zwischen Unterhaltungselektronik und Gebraucherelektronik?  
 
-09:24 P: Ja, gibts schon einen Unterschied. Ich mein, beides ist jetzt für mich nicht negativ behaftet, ja. Aber, sagen wir mal gerade jetzt in Verbindung mit so einem Sprachassistenten gibt es ja viele Gebrauchselektronik. Also wenn ich sage, schalte das Licht ein, oder irgend so etwas. Und Unterhaltungselektronik das wär dann eben Musik hören, Fernseh schauen und so weiter.  ([[what are consumer electronics]])
+09:24 P: Ja, gibts schon einen Unterschied. Ich mein, beides ist jetzt für mich nicht negativ behaftet, ja. Aber, sagen wir mal gerade jetzt in Verbindung mit so einem Sprachassistenten gibt es ja viele Gebrauchselektronik. Also wenn ich sage, schalte das Licht ein, oder irgend so etwas. Und Unterhaltungselektronik das wär dann eben Musik hören, Fernseh schauen und so weiter.  ([what are consumer electronics](output/codes/what%20are%20consumer%20electronics.md))
 
 09:51 I: Weil das lustige ist ja, in der deutschen Sprache wird das unterschieden. Und im Englischen eigentlich nicht unbedingt. Da gibt es einfach consumer electronics. Der nächste Begriff wäre Heimautomatisierung.  
 
-10:11 P: Ja, ich denk das wird ein ganz wichtiges Thema für die Zukunft sein, ja. Gerade auch vor dem Hintergrund einer älter werdenden Gesellschaft. Da gibt es ja ganz viele Aspekt, wo man das betrachten kann. Und wo eben, dass sich als sehr nützlich erweisen kann. ([[useful for the elderly]])
+10:11 P: Ja, ich denk das wird ein ganz wichtiges Thema für die Zukunft sein, ja. Gerade auch vor dem Hintergrund einer älter werdenden Gesellschaft. Da gibt es ja ganz viele Aspekt, wo man das betrachten kann. Und wo eben, dass sich als sehr nützlich erweisen kann. ([useful for the elderly](output/codes/useful%20for%20the%20elderly.md))
 
 10:34 I: Das ist ein guter Punkt. Auf das kommen ja dann...  
 
-10:41 P: Ich bin ja selber nicht mehr der Jüngste weisst. Dann macht man sich so seine Gedanken und ich muss auch daran denken, meine Mutter. Die ist jetzt vor ein paar Jahren gestorben und der hat man so einen Alarm-Melder, hat man ihr gegeben, ja. Wenn irgendwas ist, dass sie eben Alarm machen kann, ja. Und sie ist dann Nachts auf die Toilette gegangen, ja. Und da ist sie hingefallen. ([[aiding in emergencies]])
+10:41 P: Ich bin ja selber nicht mehr der Jüngste weisst. Dann macht man sich so seine Gedanken und ich muss auch daran denken, meine Mutter. Die ist jetzt vor ein paar Jahren gestorben und der hat man so einen Alarm-Melder, hat man ihr gegeben, ja. Wenn irgendwas ist, dass sie eben Alarm machen kann, ja. Und sie ist dann Nachts auf die Toilette gegangen, ja. Und da ist sie hingefallen. ([aiding in emergencies](output/codes/aiding%20in%20emergencies.md))
 
 11:10 I: Ja  
 
@@ -126,7 +126,7 @@
 
 12:51 I: Dann wäre noch der letzte Begriff, wäre Beziehung.  
 
-12:58 P: Ja, also meinst du jetzt zum Gerät oder da hat es ja beim, im Forum schon mal Diskussion gegeben. Nein, also ich hab da keine Beziehung. Also für mich ist das ganz klar, ist das einfach ein Stück Technik, ja. Man macht vielleicht mal einen Joke, ja, da drüber. Aber nichts desto trotz ist es ein Computer und fertig. Also einige meiner Alexas hab ich auch, sprech ich auch mit "Computer" an. ([[no relationship to devices]], [[joking with, through or about assistant#]], [[its just a computer]])
+12:58 P: Ja, also meinst du jetzt zum Gerät oder da hat es ja beim, im Forum schon mal Diskussion gegeben. Nein, also ich hab da keine Beziehung. Also für mich ist das ganz klar, ist das einfach ein Stück Technik, ja. Man macht vielleicht mal einen Joke, ja, da drüber. Aber nichts desto trotz ist es ein Computer und fertig. Also einige meiner Alexas hab ich auch, sprech ich auch mit "Computer" an. ([no relationship to devices](output/codes/no%20relationship%20to%20devices.md), [joking with, through or about assistant#](joking%20with,%20through%20or%20about%20assistant#), [its just a computer](output/codes/its%20just%20a%20computer.md))
 
 13:29 I: Ja
 
@@ -134,18 +134,18 @@
 
 13:31 I: Kannst du, kannst du das Schlüsselwort, kannst du das ändern?  
 
-13:35 P: Ja, es gibt vier Möglichkeiten, bei Amazon. Das ist eben Alexa, Echo, Computer und ... Vier stück sind es. Alexa, Amazon, Computer. Ja eben, Alexa, Amazon, Computer und Echo. Die vier Möglichkeiten. ([[assistant names]])
+13:35 P: Ja, es gibt vier Möglichkeiten, bei Amazon. Das ist eben Alexa, Echo, Computer und ... Vier stück sind es. Alexa, Amazon, Computer. Ja eben, Alexa, Amazon, Computer und Echo. Die vier Möglichkeiten. ([assistant names](output/codes/assistant%20names.md))
 
 13:53 I: Super.  
 
-13:53 P: Nein also, wie gesagt. Im grossen und ganzen passt das schon. Wär schöner wenn die weniger spielen würden. Dinge die sie ändern vorher vernünftig testen würden, ja. Dann vielleicht ein bisschen, weiss nicht, die bringen dann oftmals Geräte raus und die verkaufen sie dann und dann verschwinden die wieder, ja. Also da gibt es genügend Beispiele, ja. Was ich jetzt zum Beispiel ganz praktisch finde, sind zum Beispiel diese Buttons. Wo du dann, auf so einen Button kannst du dann irgendeine Funktion legen, ja. Also zum Beispiel das Licht einschalten, oder ausschalten oder so was. Waren auch nicht teuer, aber die gibt es nicht mehr, ja. Und wenn du dann in den Shop reinschaust, dann heisst es bloss, nicht mehr lieferbar. Und, wenn man die Absicht hatte sich da mehrere zuzulegen, ja, dann hat man halt Pech gehabt. Aber das sind Kleinigkeiten.  ([[hardware ecosystem]], [[too many bugs]], [[third party plays around]])
+13:53 P: Nein also, wie gesagt. Im grossen und ganzen passt das schon. Wär schöner wenn die weniger spielen würden. Dinge die sie ändern vorher vernünftig testen würden, ja. Dann vielleicht ein bisschen, weiss nicht, die bringen dann oftmals Geräte raus und die verkaufen sie dann und dann verschwinden die wieder, ja. Also da gibt es genügend Beispiele, ja. Was ich jetzt zum Beispiel ganz praktisch finde, sind zum Beispiel diese Buttons. Wo du dann, auf so einen Button kannst du dann irgendeine Funktion legen, ja. Also zum Beispiel das Licht einschalten, oder ausschalten oder so was. Waren auch nicht teuer, aber die gibt es nicht mehr, ja. Und wenn du dann in den Shop reinschaust, dann heisst es bloss, nicht mehr lieferbar. Und, wenn man die Absicht hatte sich da mehrere zuzulegen, ja, dann hat man halt Pech gehabt. Aber das sind Kleinigkeiten.  ([hardware ecosystem](output/codes/hardware%20ecosystem.md), [too many bugs](output/codes/too%20many%20bugs.md), [third party plays around](output/codes/third%20party%20plays%20around.md))
 
 14:51 I: Gut, ich habe noch drei Fragen zum abschliessen, die aber eher so, da kannst du ein bisschen frei erzählen. Also die erste Frage wäre, oder eine Bitte, könntest du das Gerät mit eigenen Worten beschreiben.  
 
-15:12 P: Ja, Sprachassistent, der Befehle, Kommandos aufnimmt. In Grunde genommen ist es auch nur eine Schnittstelle, wie eine Tastatur, wie man will. Da gibst du ja auch Kommandos ein, ja. Bloss halt komfortabler und vielseitiger.  ([[assistant as interface]], [[assistant is convenient]])
+15:12 P: Ja, Sprachassistent, der Befehle, Kommandos aufnimmt. In Grunde genommen ist es auch nur eine Schnittstelle, wie eine Tastatur, wie man will. Da gibst du ja auch Kommandos ein, ja. Bloss halt komfortabler und vielseitiger.  ([assistant as interface](output/codes/assistant%20as%20interface.md), [assistant is convenient](output/codes/assistant%20is%20convenient.md))
 
 15:34 I: Ja. Und, das Objekt, das Gerät selber, das Materielle, fällt dir da dazu was ein?  
-15:45 P: Ja, das ist ok. Also, dass ist jetzt vielleicht nicht so, dass man sagen würde, die Haptik ist toll oder so. Es ist ein Gebrauchsgegenstand, sagen wir mal, der für das was er tun soll, ist es ok. ([[device as utility item]])
+15:45 P: Ja, das ist ok. Also, dass ist jetzt vielleicht nicht so, dass man sagen würde, die Haptik ist toll oder so. Es ist ein Gebrauchsgegenstand, sagen wir mal, der für das was er tun soll, ist es ok. ([device as utility item](output/codes/device%20as%20utility%20item.md))
 
 16:01 I: Hast du ein bleibendes Erlebnis mit Amazon Echos?  
 
@@ -153,7 +153,7 @@
 
 16:11 I: Bis jetzt noch nicht. Keine Geschichte die du gerne erzählst?  
 
-16:16 P: Nein, fällt mir jetzt auf Anhieb nichts ein. Also wie gesagt, wir machen sehr viel damit, ja. Und viele Sachen sind sehr praktisch, sehr angenehm. Man kann sehr viele Dinge damit lösen, die ohne vielleicht sehr viel komplizierter und aufwendiger wären, ja. Aber das ich jetzt direkt eine Geschichte wüsste, da fällt mir jetzt nichts ein, ja. ([[assistant is convenient]])
+16:16 P: Nein, fällt mir jetzt auf Anhieb nichts ein. Also wie gesagt, wir machen sehr viel damit, ja. Und viele Sachen sind sehr praktisch, sehr angenehm. Man kann sehr viele Dinge damit lösen, die ohne vielleicht sehr viel komplizierter und aufwendiger wären, ja. Aber das ich jetzt direkt eine Geschichte wüsste, da fällt mir jetzt nichts ein, ja. ([assistant is convenient](output/codes/assistant%20is%20convenient.md))
 
 16:45 I: Dann, letzte Frage, wie sieht eure Zukunft aus?  
 

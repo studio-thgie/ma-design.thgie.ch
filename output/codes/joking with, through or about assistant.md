@@ -1,3 +1,3 @@
 # joking with, through or about assistant
-[[Communication, Language and Behavior]]
-#code [[Codes]]
+[Communication, Language and Behavior](output/themes/Communication,%20Language%20and%20Behavior.md)
+#code [Codes](output/codes/Codes.md)

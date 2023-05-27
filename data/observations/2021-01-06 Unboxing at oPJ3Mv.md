@@ -1,11 +1,11 @@
 # Unboxing
 *2021-01-06*
 
-With: [[Person oPJ3Mv]]
-Photos: [[2021-01-06 Photos of Unboxing at oPJ3Mv]]
-Scenario: [[Unboxing the Voice Assistants]]
+With: [Person oPJ3Mv](data/people/Person%20oPJ3Mv.md)
+Photos: [2021-01-06 Photos of Unboxing at oPJ3Mv](data/observations/2021-01-06%20Photos%20of%20Unboxing%20at%20oPJ3Mv.md)
+Scenario: [Unboxing the Voice Assistants](research/designs/Unboxing%20the%20Voice%20Assistants.md)
 
-[[Participatory Observations]] #observation
+[Participatory Observations](data/Participatory%20Observations.md) #observation
 
 ---
 

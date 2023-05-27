@@ -13,6 +13,6 @@ Some tales of voice assistants were exchanged. Like the one instance, where a us
 
 ---
 
-At [[Person bc9PVK]] 
+At [Person bc9PVK](data/people/Person%20bc9PVK.md) 
 
-[[Participatory Observations]] #observation #fragment #photos 
+[Participatory Observations](data/Participatory%20Observations.md) #observation #fragment #photos 

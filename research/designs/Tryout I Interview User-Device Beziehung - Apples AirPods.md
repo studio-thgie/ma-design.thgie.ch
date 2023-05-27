@@ -65,4 +65,4 @@ a. = haben AirPods, b. haben keine AirPods
 - ~10min freie Diskussion mit Inputs der Interviewees und Wrap-up 
 
 
-#research-design [[Research Designs]]
+#research-design [Research Designs](research/Research%20Designs.md)

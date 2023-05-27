@@ -1,6 +1,6 @@
 # convenience through automation
 Arduous tasks are automated away, usually involving physical activity 
 
-[[Control and Convenience]]
+[Control and convenience](output/themes/Control%20and%20convenience.md)
 
-#code [[Codes]]
+#code [Codes](output/codes/Codes.md)

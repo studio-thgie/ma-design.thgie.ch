@@ -1,7 +1,7 @@
 # Voice-Assistant Extended
 *Conducted in Swiss-German*
 
-With [[Person 5gQeRi]]
+With [Person 5gQeRi](data/people/Person%205gQeRi.md)
 
 ---
 

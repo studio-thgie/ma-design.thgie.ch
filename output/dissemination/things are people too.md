@@ -3,9 +3,9 @@
 
 This research project focuses on the intersection of emotional durable design, our relationship to consumer electronics an animism. Voice assistants are used as a case study to make inquiries in the hypothesis.
 
-### [[Researchplan 2020]]
+### [Researchplan 2020](journal/Researchplan%202020.md)
 
 ### Findings
-- [[Voice Assistant Use Cases]]
-- [[Codes]]
-- [[Product Aesthetics, Ads and Hacks]]
+- [Voice Assistant Use Cases](output/Voice%20Assistant%20Use%20Cases.md)
+- [Codes](output/codes/Codes.md)
+- [Product Aesthetics, Ads and Hacks](data/Product%20Aesthetics,%20Ads%20and%20Hacks.md)

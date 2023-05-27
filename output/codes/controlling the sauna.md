@@ -1,5 +1,5 @@
 # controlling the sauna
 
-[[Location]], [[Control and Convenience]], , [[Control and Convenience]]
+[Location](Location), [Control and convenience](output/themes/Control%20and%20convenience.md), , [Control and convenience](output/themes/Control%20and%20convenience.md)
 
-#code [[Codes]] 
+#code [Codes](output/codes/Codes.md) 

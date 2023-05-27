@@ -28,7 +28,7 @@ Ich habe mich mittlerweile über die Verkaufs-Zahlen von VAs schlau gemacht. In 
 
 Unter Umständen muss ich andere Wege gehen um zu den gewünschten Daten zu kommen.
 
-Das hier war die Ausschreibung: [[Suche Teilnehmer_innen]]
+Das hier war die Ausschreibung: [Suche Teilnehmer_innen](research/Suche%20Teilnehmer_innen.md)
 
 ---
 

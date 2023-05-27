@@ -7,12 +7,12 @@ This is a potential participant's reaction, upon explaining how participatory ob
 
 I do know, that this person is ver aware of privacy issues around big tech and big data.
 
-([[privacy issues with human]], [[the loss of privacy is ok]], [[awareness of privacy issues]])
+([privacy issues with human](output/codes/privacy%20issues%20with%20human.md), [the loss of privacy is ok](output/codes/the%20loss%20of%20privacy%20is%20ok.md), [awareness of privacy issues](output/codes/awareness%20of%20privacy%20issues.md))
 
 ![photo5960911975871525877.jpg](/assets/images/photo5960911975871525877.jpg)
 
 
-[[Participatory Observations]] #observation #fragment 
+[Participatory Observations](data/Participatory%20Observations.md) #observation #fragment 
 
 
 ## Sources

@@ -1,4 +1,4 @@
 # feeling stressed
-[[Conditioning the User]]
+[Conditioning the User](output/themes/Conditioning%20the%20User.md)
 
-[[Codes]] #code
+[Codes](output/codes/Codes.md) #code

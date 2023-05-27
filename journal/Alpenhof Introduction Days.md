@@ -37,4 +37,4 @@ Ich bin gespannt, wie sich die Personen und Projekte (inklusive mir) in den näc
 
 ---
 
-[[Journal]] 
+[Journal](Journal.md) 

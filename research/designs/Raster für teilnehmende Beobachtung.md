@@ -46,4 +46,4 @@ Sprachassistent \[a]
 * Welchen Platz nimmt A im sozialen Gefüge von P ein
 
 
-#research-design [[Research Designs]]
+#research-design [Research Designs](research/Research%20Designs.md)

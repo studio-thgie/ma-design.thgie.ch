@@ -9,7 +9,7 @@ This research project is about exploring the potential of voice assistant techno
 
 ---
 
-[[Journal]] contains the research log since the beginning of the project. It holds major events, reflexions and decisions regarding this research endeavour. Under [[Findings and Output]] I gathered most of the more relevant products that emerged out of my work here. You'll find some texts but also colloquia paper and a variety of presentations. All data I captured are to found under [[Research Data]], such as interview transcripts, field notes and a handful of photos from the participatory observation.
+[Journal](Journal.md) contains the research log since the beginning of the project. It holds major events, reflexions and decisions regarding this research endeavour. Under [Findings and Output](Findings%20and%20Output.md) I gathered most of the more relevant products that emerged out of my work here. You'll find some texts but also colloquia paper and a variety of presentations. All data I captured are to found under [Research Data](Research%20Data.md), such as interview transcripts, field notes and a handful of photos from the participatory observation.
 
 ---
 

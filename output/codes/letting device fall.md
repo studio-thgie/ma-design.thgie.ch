@@ -1,6 +1,6 @@
 # letting device fall
 The participant let the device fall.
 
-[[Communication, Language and Behavior]]
+[Communication, Language and Behavior](output/themes/Communication,%20Language%20and%20Behavior.md)
 
-#code [[Codes]]
+#code [Codes](output/codes/Codes.md)

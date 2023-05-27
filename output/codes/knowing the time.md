@@ -1,4 +1,4 @@
 # knowing the time
-[[Knowledge Practices]]
+[Knowledge Practices](output/themes/Knowledge%20Practices.md)
 
-[[Codes]] #code 
+[Codes](output/codes/Codes.md) #code 

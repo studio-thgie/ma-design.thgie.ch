@@ -1,8 +1,8 @@
 # Photos at eQXH0W
 *2020-11-13*
 
-[[Person eQXH0W]]
-From: [[2020-11-13 Voice Assistant Basics with eQXH0W]]
+[Person eQXH0W](data/people/Person%20eQXH0W.md)
+From: [2020-11-13 Voice Assistant Basics with eQXH0W](data/interviews/2020-11-13%20Voice%20Assistant%20Basics%20with%20eQXH0W.md)
 
 ## Sauna-Room
 ![IMG_20201113_172844.jpg](/assets/images/IMG_20201113_172844.jpg)
@@ -21,4 +21,4 @@ This Echo Dot is used to control the lights outside.
 ![IMG_20201113_172754.jpg](/assets/images/IMG_20201113_172754.jpg)
 ![IMG_20201113_172822.jpg](/assets/images/IMG_20201113_172822.jpg)
 
-[[Participatory Observations]] #observation #photos
+[Participatory Observations](data/Participatory%20Observations.md) #observation #photos

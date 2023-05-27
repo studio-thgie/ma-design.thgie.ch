@@ -11,7 +11,7 @@ tags:
 # Evaluation of Expert Workshop
 Feb 18, 2021
 
-[[Expert Workshop I]]
+[Expert Workshop I](research/designs/Expert%20Workshop%20I.md)
 
 ## Notes on workshop format
 The pace of the workshop was welcomed by the participants. In contrast to classical design thinking workshops, this format here was much slower and introspective. I had two currents going on. On was to bring the participants, who didn't know each other, together. The other current was to open up the imagination from a common starting point.
@@ -34,10 +34,10 @@ Another big issue was trust, in the device but mainly in the companies behind th
 Not having any input on the form (aesthetics) of an animist approach to VAs leaves me with a big gap here. The question arises if this aspect is left to cultural interpretation or if the participants were not enabled to imagine in this direction.
 
 ## Stories
-- [[Expert Workshop - Story 1]]
-- [[Expert Workshop - Story 2]]
-- [[Expert Workshop - Story 3]]
-- [[Expert Workshop - Story 4]]
+- [Expert Workshop - Story 1](data/expert-workshop/Expert%20Workshop%20-%20Story%201.md)
+- [Expert Workshop - Story 2](data/expert-workshop/Expert%20Workshop%20-%20Story%202.md)
+- [Expert Workshop - Story 3](data/expert-workshop/Expert%20Workshop%20-%20Story%203.md)
+- [Expert Workshop - Story 4](data/expert-workshop/Expert%20Workshop%20-%20Story%204.md)
 
 ## Photos of workshop
 ![IMG_20210213_100207.jpg](/assets/images/thumbs/IMG_20210213_100207.jpg)

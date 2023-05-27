@@ -1,7 +1,7 @@
 # Voice-Assistant Extended
 *Conducted in English*
 
-With [[Person 3j14j0]]
+With [Person 3j14j0](data/people/Person%203j14j0.md)
 
 ---
 

@@ -1,10 +1,10 @@
 # Lunchtime, Homeoffice
 
-At: [[Person oPJ3Mv]]
-Also present later on: [[Person bc9PVK]]
+At: [Person oPJ3Mv](data/people/Person%20oPJ3Mv.md)
+Also present later on: [Person bc9PVK](data/people/Person%20bc9PVK.md)
 Time: 11:00 - 14:00
 
-[[Participatory Observations]] #observation
+[Participatory Observations](data/Participatory%20Observations.md) #observation
 
 ---
 
@@ -14,7 +14,7 @@ Time: 11:00 - 14:00
 
 ## Observation
 
-11:00 p excuses herself, saying that she doesn't need the device very much and she is unsure if she is skilled enough to really use it. I explain the nature of participatory observation and that she doesn't need to use it on purpose. She mentions that she usually uses the device for cooking, or sometimes to listen to music. [[feeling insecure]]
+11:00 p excuses herself, saying that she doesn't need the device very much and she is unsure if she is skilled enough to really use it. I explain the nature of participatory observation and that she doesn't need to use it on purpose. She mentions that she usually uses the device for cooking, or sometimes to listen to music. [feeling insecure](output/codes/feeling%20insecure.md)
 
 11:20 p sitting in living room, focuses on work she has to to for her studies
 
@@ -22,7 +22,7 @@ Time: 11:00 - 14:00
 
 11:43 p "Hast du einen Liederwunsch?" I work
 
-11:43 p "Ok Google, LA Salami spielen" The Answer from the device is not understandable, since I sit in the other room. It seems to make the participant uncomfortable, she laughs it off. The device seems to have misunderstood _salami_. "Ok Google, Musik von LA Salami spielen." This time the device reacts correctly but weirdly spells "LA" in German, not nowing it's part of a name. ([[assistant misunderstands]])
+11:43 p "Ok Google, LA Salami spielen" The Answer from the device is not understandable, since I sit in the other room. It seems to make the participant uncomfortable, she laughs it off. The device seems to have misunderstood _salami_. "Ok Google, Musik von LA Salami spielen." This time the device reacts correctly but weirdly spells "LA" in German, not nowing it's part of a name. ([assistant misunderstands](output/codes/assistant%20misunderstands.md))
 
 11:45 p starts to cook, peeling onions while some easy listening is playing.
 
@@ -34,19 +34,19 @@ Time: 11:00 - 14:00
 
 12:09 There was some chaos in the kitchen because a pot overspilled. I moved to the kitchen to see if I can help.
 
-12:12 "Ok Google, Timer auf 8 Minuten stellen" ([[setting a timer]])
+12:12 "Ok Google, Timer auf 8 Minuten stellen" ([setting a timer](output/codes/setting%20a%20timer.md))
 
-12:20 Timer on device goes of. Participant tries to touch it, to turn the timer of, but it unsuccesful. A second approach works. ([[failed interaction]])
+12:20 Timer on device goes of. Participant tries to touch it, to turn the timer of, but it unsuccesful. A second approach works. ([failed interaction](output/codes/failed%20interaction.md))
 
 12:21 I tell my newest finding, that when the timer goes of, the device also starts to listen and you can just say stop, instead of "Ok Google, stop".
 
-12:22 p tells me an aneqdote. She tried the crystall ball service, where you can ask questions and the device "divines" answers. She ask how many children she will get, and the device just answered with "No". ([[mentioning of a service]], [[exchanging information on assistant]])
+12:22 p tells me an aneqdote. She tried the crystall ball service, where you can ask questions and the device "divines" answers. She ask how many children she will get, and the device just answered with "No". ([mentioning of a service](output/codes/mentioning%20of%20a%20service.md), [exchanging information on assistant](output/codes/exchanging%20information%20on%20assistant.md))
 
-12:24 The device is still playing "LA Salami" ([[background music]])
+12:24 The device is still playing "LA Salami" ([background music](output/codes/background%20music.md))
 
 12:59 We ate until now, the device was not used anymore so far.
 
-13:05 A discussion about the functions and settings of the device starts off. The partner of the participant sealed of the "Home" of the participant so that the sister can't log into their system and vice versa. After mentioning some of the main usages of the device, the sister mentions that the participants seems to use the device much more then herself. The participant told me about what she needs the device for, mainly. ([[exchanging information on assistant]], [[mentioning of a service]])
+13:05 A discussion about the functions and settings of the device starts off. The partner of the participant sealed of the "Home" of the participant so that the sister can't log into their system and vice versa. After mentioning some of the main usages of the device, the sister mentions that the participants seems to use the device much more then herself. The participant told me about what she needs the device for, mainly. ([exchanging information on assistant](output/codes/exchanging%20information%20on%20assistant.md), [mentioning of a service](output/codes/mentioning%20of%20a%20service.md))
 
   - Disney Quiz
   - Listening to music

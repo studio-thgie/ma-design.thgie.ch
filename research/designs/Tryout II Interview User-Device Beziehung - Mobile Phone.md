@@ -35,4 +35,4 @@ Parallel dazu gehe ich weiterhin in die Literatur um auf den Stand der kontempor
 - Participatory Observation
 
 
-#research-design [[Research Designs]]
+#research-design [Research Designs](research/Research%20Designs.md)

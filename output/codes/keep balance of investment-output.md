@@ -1,3 +1,3 @@
 # keep balance of investment-output
 
-#code [[Codes]]
+#code [Codes](output/codes/Codes.md)

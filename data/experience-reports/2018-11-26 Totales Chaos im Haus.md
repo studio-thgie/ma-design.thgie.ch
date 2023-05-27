@@ -12,7 +12,7 @@ So ist das natürlich extrem nervig, da niemand mehr in Ruhe seine Musik/Hörbü
 Hat jemand eine Lösung?
 
 ## Themes
-- [[Haunting]]
-- [[Glitches, Bugs and Errors]]
+- [Haunting](Haunting)
+- [Glitches, Bugs and Errors](Glitches,%20Bugs%20and%20Errors)
 
 #experience-report

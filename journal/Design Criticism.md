@@ -25,4 +25,4 @@ I will continue to work on both threads and see where I will be able to bring th
 
 #research-log #website
 
-[[Journal]] 
+[Journal](Journal.md) 

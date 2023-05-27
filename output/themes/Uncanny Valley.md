@@ -1,7 +1,7 @@
 # Uncanny Valley
 There is a psychological effect in which the more a thing is recognized as being human the more trustworthy or relatable it is. There is a brief gap of cognitive dissonance when we can't decide anymore if something is human or not. This gap is the uncanny valley and we generally don't trust things if they are to be placed in there.
 
-![[2560px-Mori_Uncanny_Valley.svg.png]]
+![2560px-Mori_Uncanny_Valley.svg](assets/images/2560px-Mori_Uncanny_Valley.svg.png)
 
 The uncanny valley finds many expressions in the interaction with voice assistants. First, we have **uncanny communication** by encountering human voices but robotic speech patterns. The voices of current implements are near perfect, indistinguishable from real humans, but the way they communicate is robotic or scripted.
 

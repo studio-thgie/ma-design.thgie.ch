@@ -25,6 +25,6 @@ I also had a few questions that framed the coding:
 - What feelings and emotions are mentioned or expressed towards the assistant, the devices, ecosystem or the interaction
 - How is the actual observed interaction
 
-As of now I generated 220 [[Codes]] (as of today), but I assume that many of them are similar and can be merged together. I'll do that in a next iteration. I still have the experience reports to do and after that try to get into the second phase, the creation of [[Thematic Analysis]].
+As of now I generated 220 [Codes](output/codes/Codes.md) (as of today), but I assume that many of them are similar and can be merged together. I'll do that in a next iteration. I still have the experience reports to do and after that try to get into the second phase, the creation of [Thematic Analysis](output/Thematic%20Analysis.md).
 
 I feel that there are already some of thesecom emerging, but there are also aneqdotes which don't necessarily feed well into a theme that I still want to keep.

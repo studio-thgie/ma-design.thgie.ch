@@ -10,7 +10,7 @@ header: "/assets/images/thumbs/IMG_20201207_191543.jpg"
 # Post-Animism Phase
 Mar 05, 2021
 
-I had a very good coaching this week. Not an easy one, but a good one. As pointed out in the last post, [[Crossroads and Conjunctions]], I'm somewhat at a place where I can go straight forward. My mentor booked this under being lost, which captures it quite nicely.
+I had a very good coaching this week. Not an easy one, but a good one. As pointed out in the last post, [Crossroads and Conjunctions](journal/Crossroads%20and%20Conjunctions.md), I'm somewhat at a place where I can go straight forward. My mentor booked this under being lost, which captures it quite nicely.
 
 The problem I'm facing is, that despite all the wonderful material at hand, I'm not able to translate an animistic framework into reality without falling back into appropriating other cultures or being purely speculative. The first option is without question a big no go. I don't mind the second, but as my mentor also pointed out, it would need me to go into a direction I'm not necessarily comfortable with.
 

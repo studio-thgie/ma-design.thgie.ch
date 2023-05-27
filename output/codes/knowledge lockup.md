@@ -1,5 +1,5 @@
 # knowledge lockup
 The assistant was questions for facts.
-[[Knowledge Practices]]
+[Knowledge Practices](output/themes/Knowledge%20Practices.md)
 
-#code [[Codes]]
+#code [Codes](output/codes/Codes.md)

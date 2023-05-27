@@ -26,14 +26,14 @@ AP1 geht der Fragestellung nach: Gibt es animistische Ansätze und Praxen im Umg
 Schwache Signale finden sich in den bereits vorhandenen Tagesabläufen und Geschichten der interviewten und beobachteten Teilnehmer*innen. Da sich diese der schwachen Signale (oder deren Kategorisierung als solche) oftmals nicht bewusst sind, wird auf eine Untersuchung mit vielen Teilnehmer*innen verzichtet und dafür mit wenigen ausgesuchten eine Tiefe gesucht. Die Entdeckung der schwachen Signale beruht auf klassischer ethnographischer Forschung mit den Methoden der Beobachtung, des Interview.
 
 Ansatz: Anthropologische Forschung
-Methoden: [[Participatory Observations]], [[Interviews]]
+Methoden: [Participatory Observations](data/Participatory%20Observations.md), [Interviews](data/Interviews.md)
 Zielgruppe: 5 Teilnehmer*innen, normal bis power-user technischer Geräte
 
 **Arbeitspaket 2 - Designforschung**
 Im zwei Arbeitspaket geht es um die Entwicklung oder Gestaltung von Narrativen - Prototypen welche sowohl imaterielle als auch physische Komponenten umfassen. Das AP2 geht der Fragestellung nach wie sich die gefundenen Ansätze durch Design verstärken. Dazu wird ein partizipativer Workshop organisiert, an denen sowohl Designer welche nahe an der Technologie agieren teilnehmen. Der Katalog schwacher Signale aus der zweiten Phase wird dabei zur zentralen Quelle aus welcher die Narrative gesponnen werden.
 
 Ansatz: Praxis-basierte (practice-based) Designforschung
-Methoden: [[Expert Workshop I]], Prototyping, speculative Design
+Methoden: [Expert Workshop I](research/designs/Expert%20Workshop%20I.md), Prototyping, speculative Design
 Zielgruppe: 5 Teilnehmer*innen, Designer nahe an Technologien (UI, Produktedesign)
 
 **Arbeitspaket 3 - Testing**
@@ -43,4 +43,4 @@ Ansatz: Designforschung, anthropologische Forschung
 Methoden: Beobachtung, Interviews, (Cultural Probes)
 Zielgruppe: 5 Teilnehmer*innen aus AP1 sowie eine Kontrollgruppe
 
-[[Journal]]
+[Journal](Journal.md)

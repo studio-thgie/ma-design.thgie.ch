@@ -1,7 +1,7 @@
 # During work, afternoon
 
-[[Person bc9PVK]]
-from: [[2020-12-15 During Work, afternoon]]
+[Person bc9PVK](data/people/Person%20bc9PVK.md)
+from: [2020-12-15 During Work, afternoon](data/observations/2020-12-15%20During%20Work,%20afternoon.md)
 
 ## Photos
 ![IMG_20201215_130700.jpg](/assets/images/IMG_20201215_144647.jpg)
@@ -18,4 +18,4 @@ from: [[2020-12-15 During Work, afternoon]]
 ![IMG_20201215_144642.jpg](/assets/images/IMG_20201215_144642.jpg)
 *Participant working, the voice assistant in the back*
 
-[[Participatory Observations]] #observation #photos 
+[Participatory Observations](data/Participatory%20Observations.md) #observation #photos 

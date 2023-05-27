@@ -1,10 +1,10 @@
 # Unboxing
 *2020-12-06*
 
-With: [[Person bKEfGP]]
-Scenario: [[Unboxing the Voice Assistants]]
+With: [Person bKEfGP](data/people/Person%20bKEfGP.md)
+Scenario: [Unboxing the Voice Assistants](research/designs/Unboxing%20the%20Voice%20Assistants.md)
 
-[[Participatory Observations]] #observation
+[Participatory Observations](data/Participatory%20Observations.md) #observation
 
 ---
 

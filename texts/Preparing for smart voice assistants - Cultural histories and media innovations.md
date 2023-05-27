@@ -62,4 +62,4 @@ Smart voice assistants have become popular thanks largely to their default natur
 
 ## PDF
 
-![[Humphry_Chesher_2020_Preparing for smart voice assistants.pdf]]
+![Humphry_Chesher_2020_Preparing for smart voice assistants](assets/files/Humphry_Chesher_2020_Preparing%20for%20smart%20voice%20assistants.pdf)

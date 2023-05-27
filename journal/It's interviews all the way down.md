@@ -16,16 +16,16 @@ Where as the first set helped me setup the research focus the second helped me v
 
 ## Voice assistants as assistive technologies
 
-- [[2021-12-10 Voice assistants as assistive technologies with 9ASqQv and 8Y11NR]]
-- [[2021-12-10 Voice assistants as assistive technologies  with DgaB8Q]]
+- [2021-12-10 Voice assistants as assistive technologies with 9ASqQv and 8Y11NR](data/interviews/2021-12-10%20Voice%20assistants%20as%20assistive%20technologies%20with%209ASqQv%20and%208Y11NR.md)
+- [2021-12-10 Voice assistants as assistive technologies  with DgaB8Q](data/interviews/2021-12-10%20Voice%20assistants%20as%20assistive%20technologies%20%20with%20DgaB8Q.md)
 
 ## Voice Assistants Extended
 
 How do Voice Assistants mediate our access to the world, especially within the context of inclusion design.
 
-- [[2021-09-09 VA Extended with 5gQeRi]]
-- [[2021-08-25 VA Extended with 3j14j0]]
-- [[2021-08-25 VA Extended with 9ASqQv]]
+- [2021-09-09 VA Extended with 5gQeRi](data/interviews/2021-09-09%20VA%20Extended%20with%205gQeRi.md)
+- [2021-08-25 VA Extended with 3j14j0](data/interviews/2021-08-25%20VA%20Extended%20with%203j14j0.md)
+- [2021-08-25 VA Extended with 9ASqQv](data/interviews/2021-08-25%20VA%20Extended%20with%209ASqQv.md)
 
 ---
 

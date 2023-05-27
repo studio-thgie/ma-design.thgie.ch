@@ -18,14 +18,14 @@ As mentioned, the biggest take away from the last course was, that working with 
 
 I tried to shift to a similar discourse, namely new materialism, in an attempt to word out the base of my research project. I wrote a short text about that: 
 
-- [[Agency within the  context of new materialism]]
+- [Agency within the  context of new materialism](output/Agency%20within%20the%20%20context%20of%20new%20materialism.md)
 
 After two coachings, with Robert and Luiza (and a mini-coaching by Ulrike Felsing), I also figured that I should not concentrate too much on the discourse basis in the beginning, but try to get into a practice as soon as possible – getting concrete.
 
 In an attempt to be concrete, I speculated about possible _solutions_ to the problem of our relations to our things. There is a fragmentary text about that exercise, as well as a critique on an attempt to use _animism_ in design research:
 
-- [[Design and New Materialism - Possible approaches]]
-- [[On the Application of Animism in Design]]
+- [Design and New Materialism - Possible approaches](output/Design%20and%20New%20Materialism%20-%20Possible%20approaches.md)
+- [On the Application of Animism in Design](output/On%20the%20Application%20of%20Animism%20in%20Design.md)
 
 One thing I liked a lot from the coaching with Luiza was, that my work with _animism_ might be an attempt to find a language for something I know from experience. From this whole process I singled out one aspect I'm especially interested in:
 

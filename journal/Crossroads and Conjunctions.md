@@ -13,7 +13,7 @@ header: "/assets/images/thumbs/IMG_20210102_165639.jpg"
 I reached kind of a crossroad in my project, but it's a messy one. It's not just that one path intersects with the one I was on. The path I'm on has no straight continuation from this point onwards.
 
 ## Review of the process so far
-I set out to find insights into the [[Intentions, Questions and Hypothesis]] that gave raise to this research endeavour. To do this, I crafted a [[Researchplan 2020]] that I followed up to this point:
+I set out to find insights into the [Intentions, Questions and Hypothesis](research/Intentions,%20Questions%20and%20Hypothesis.md) that gave raise to this research endeavour. To do this, I crafted a [Researchplan 2020](journal/Researchplan%202020.md) that I followed up to this point:
 
 - gather insights into the interaction between users and voice assistants, as well as the involved emotions and values, through ethnographic methodology in the field
 - analyse the collected material through thematic analysis to find weak signals and general understandings of the current situation
@@ -26,7 +26,7 @@ So far, this has worked out very much to my pleasing. The results were surprisin
 - we already live in a highly animistic world; we just don't have a vocabulary for it and the spirits we bring into our homes are much more like minor poltergeister then helpful kobolds (at times a bit like Pumuckl's evil twin on crack)
 - an alternative and also very plausible interpretation is, that people really don't want an animistic techno-sphere and prefer the master-slave paradigme in HCI
 
-The last step done so far, the [[Expert Workshop I]], was very productive. I got a lot of material to think and work through, but I'm missing one crucial aspect. The missing of this aspect initiated this round of reflection. One aspect that we didn't think or speak about, was form. Form as in gestalt, colors, materials, etc. We work a lot on interaction and persona, but for my approach that is not enough.
+The last step done so far, the [Expert Workshop I](research/designs/Expert%20Workshop%20I.md), was very productive. I got a lot of material to think and work through, but I'm missing one crucial aspect. The missing of this aspect initiated this round of reflection. One aspect that we didn't think or speak about, was form. Form as in gestalt, colors, materials, etc. We work a lot on interaction and persona, but for my approach that is not enough.
 
 ## Problems and outlook
 

@@ -1,6 +1,6 @@
 # The Trouble with Consumption
 
-I wrote down the basics and my thoughts on [[Alternative Hedonism]].
+I wrote down the basics and my thoughts on [Alternative Hedonism](journal/Alternative%20Hedonism.md).
 
 Soper, Kate. _The Trouble with Consumption_. Places Journal. Retrieved 26 December 2020, from [https://placesjournal.org/article/alternative-hedonism-and-the-trouble-with-consumption/](https://placesjournal.org/article/alternative-hedonism-and-the-trouble-with-consumption/)
 

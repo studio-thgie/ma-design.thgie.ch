@@ -21,7 +21,7 @@ Der Prototyp soll das Narrativ (Bedeutung) um sowie die Interaktion (Praxis) mit
 ## Zine
 Das Zine ist inspiriert durch den Ansatz von Nicolas Nova ([Research Zine I](https://head.hesge.ch/mobilerepaircultures/research-zine-1/)). Es enthält wichtige Eckpunkte, Grundlagen, Findings aber auch Fragen die das Projekt begleiten. Weiterhin lädt es an Stellen zur Mitarbeit an. Es soll helfen, das Datenset sowie Findings zugänglich zu machen, ohne auf das digitale Archiv zugreifen zu müssen, in vielen Fällen aber darauf verweisen. Vor allem für ein Workshop, soll so das "vor-Ort-bleiben" ermöglicht werden.
 
-Hier geht es zum [[Research Zine I - March 2021]].
+Hier geht es zum [Research Zine I - March 2021](output/Research%20Zine%20I%20-%20March%202021.md).
 
 ## Ablauf / 13:00 - 17:00
 ### 13:00 - 13:30 Inspiration / Framing

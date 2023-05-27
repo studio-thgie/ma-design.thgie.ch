@@ -7,11 +7,11 @@ November 2020 - Januar 2021
 
 Semi-structured interview to get into the basics of what role the voice assistant(s) play in the users life.
 
-- [[2021-01-08 Voice Assistant Basics with bXQw3h]]
-- [[2020-11-20 Voice Assistant Basics with 0TFKnT]]
-- [[2020-11-13 Voice Assistant Basics with eQXH0W]]
-- [[2020-11-12 Voice Assistant Basics with YzCTXF]]
-- [[2020-11-12 Voice Assistant Basics with j5mWdx]]
+- [2021-01-08 Voice Assistant Basics with bXQw3h](data/interviews/2021-01-08%20Voice%20Assistant%20Basics%20with%20bXQw3h.md)
+- [2020-11-20 Voice Assistant Basics with 0TFKnT](data/interviews/2020-11-20%20Voice%20Assistant%20Basics%20with%200TFKnT.md)
+- [2020-11-13 Voice Assistant Basics with eQXH0W](data/interviews/2020-11-13%20Voice%20Assistant%20Basics%20with%20eQXH0W.md)
+- [2020-11-12 Voice Assistant Basics with YzCTXF](data/interviews/2020-11-12%20Voice%20Assistant%20Basics%20with%20YzCTXF.md)
+- [2020-11-12 Voice Assistant Basics with j5mWdx](data/interviews/2020-11-12%20Voice%20Assistant%20Basics%20with%20j5mWdx.md)
 
 ## Questions
 - What do you connect with the following terms 
@@ -31,4 +31,4 @@ Semi-structured interview to get into the basics of what role the voice assistan
 - What future do you see for you and the device?
 
 
-#research-design [[Research Designs]]
+#research-design [Research Designs](research/Research%20Designs.md)

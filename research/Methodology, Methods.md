@@ -6,8 +6,8 @@
 - [Design research](https://en.wikipedia.org/wiki/Design_research)
 
 ## Methods
-- [[Interviews]]
-- [[Participatory Observations]]
-- Empathy mapping and User Journey mapping in [[Unboxing the Voice Assistants]]
-- Expert-workshops: [[Expert Workshop I]]
+- [Interviews](data/Interviews.md)
+- [Participatory Observations](data/Participatory%20Observations.md)
+- Empathy mapping and User Journey mapping in [Unboxing the Voice Assistants](research/designs/Unboxing%20the%20Voice%20Assistants.md)
+- Expert-workshops: [Expert Workshop I](research/designs/Expert%20Workshop%20I.md)
 - Prototyping & Testing

@@ -1,6 +1,6 @@
 # setting reminders
 Letting the assistant remind oneself of something.
 
-[[Knowledge Practices]]
+[Knowledge Practices](output/themes/Knowledge%20Practices.md)
 
-#code [[Codes]] 
+#code [Codes](output/codes/Codes.md) 

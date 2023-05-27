@@ -9,7 +9,7 @@ header: "/assets/images/thumbs/IMG_20201207_191603.jpg"
 # Alternative Hedonism
 *05 Jan, 2021*
 
-Thoughts on [[The Trouble with Consumption - Kate Soper]].
+Thoughts on [The Trouble with Consumption - Kate Soper](texts/The%20Trouble%20with%20Consumption%20-%20Kate%20Soper.md).
 
 Alternative hedonism is a view on the consumer opposing the liberal as well as the marxist analysis of this persona. While still being political, it focuses on the implications and reasons of concious consumption. The liberal analysis positions the consumer as the rationalist, practicing consumption with calculation and always towards the self. Marxist theory, on the other hand, sees the consumer as the victim of the market, unable to make own decisions.
 

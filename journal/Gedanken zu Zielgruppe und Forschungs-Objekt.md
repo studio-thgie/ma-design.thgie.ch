@@ -10,7 +10,7 @@ header: "/assets/images/thumbs/IMG_20210106_175037.jpg"
 # Gedanken zu Zielgruppe und Forschungs-Objekt
 Oct 02, 2020
 
-Für das dritte und vierte Semester ist Forschung angesagt, siehe dazu [[Researchplan 2020]]. Gemäss dem Plan brauche ich dazu eine handvoll Teilnehmer*innen mit welchen ich durch ethnografische Methoden arbeiten kann, sowie den Fokus auf eine Technologie.
+Für das dritte und vierte Semester ist Forschung angesagt, siehe dazu [Researchplan 2020](journal/Researchplan%202020.md). Gemäss dem Plan brauche ich dazu eine handvoll Teilnehmer*innen mit welchen ich durch ethnografische Methoden arbeiten kann, sowie den Fokus auf eine Technologie.
 
 Ich habe mich schlussendlich für Sprachassistent*innen entschieden. Primär geht es jene Produkte, welche materialisiert zu Hause oder im Büro zu finden sind - Amazons Alexa, Google Home oder Apples HomePod und weitere. Die Marke oder das Model spiel derzeit keine Rolle. Eventuell kann um virtuelle Sprachassistent*innen auf dem Smartphone erweitert werden, sofern diese innerhalb einer Verbindung mit einem spezialisierten Gerät gebraucht werden.
 

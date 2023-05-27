@@ -1,7 +1,7 @@
 
 # Voice assistants as assistive echnologies
 
-With [[Person DgaB8Q]]
+With [Person DgaB8Q](data/people/Person%20DgaB8Q.md)
 
 ---
 

@@ -1,8 +1,8 @@
 # Photos at bXQw3h
 *2021-01-08*
 
-At: [[Person bXQw3h]]
-From: [[2021-01-08 Voice Assistant Basics with bXQw3h]]
+At: [Person bXQw3h](data/people/Person%20bXQw3h.md)
+From: [2021-01-08 Voice Assistant Basics with bXQw3h](data/interviews/2021-01-08%20Voice%20Assistant%20Basics%20with%20bXQw3h.md)
 
 ## Kitchen
 ![IMG_20210108_133732.jpg](/assets/images/IMG_20210108_133732.jpg)
@@ -14,5 +14,5 @@ From: [[2021-01-08 Voice Assistant Basics with bXQw3h]]
 
 
 ## Collections
-- #observation [[Participatory Observations]]
-- #photos [[Observation Photos]]
+- #observation [Participatory Observations](data/Participatory%20Observations.md)
+- #photos [Observation Photos](Observation%20Photos)

@@ -19,7 +19,7 @@ Initially I was heavily invested into the subject of animism, especially aspects
 I settled on voice assistants, like Amazon's Echo or Google's Nest, as study case. It is a disruptive technology, which just recently established itself for good. It hasn't been studied thoroughly already, bringing with it many research gaps to be filled as well as potentials to be looted. The aspect of speaking with it also brings added benefits if going the path of animism.
 
 ## What's been done
-With this in mind I carved the [[Researchplan 2020|following research plan]], built up in three consecutive phases.
+With this in mind I carved the [following research plan](journal/Researchplan%202020.md), built up in three consecutive phases.
 
 *Phase 1*
 - Fieldwork: Interviews with user as well as observatory participation, user journeys, capturing online voices through product reviews and forum discussions as well as collect image material related to customizing voice assistants as well as advertisement
@@ -46,28 +46,28 @@ Another participant told me how he sometimes kicks his Amazon Echo device out of
 	
 Both positions, coming from the assistant as well as the user, indicate behavior that is hard to tolerate and point to problems of human-computer-interaction and communication.
 
-Further reading -> [[Done with collecting]]
+Further reading -> [Done with collecting](journal/Done%20with%20collecting.md)
 
 The collected material was transcribed into the research archive, which also built the base for the thematic analysis.
 
 TA is a classical method of labeling your data or coding it and then developing overlapping themes out of the codes. I opted for a reflexive approach after Braun and Clarke as it lends itself to mixed media data analysis. An important aspect of this method is the back-linking of codes and themes to the actual data, and thus verify and making sure the analysis has substance. Thematic analysis is said to be compatible with phenomenology in that it can focus on participants' subjective experiences and sense-making, which was important for me, as I strived towards the field of user experience and interaction design. In the reflexive approach the researcher's active part in the creation of theme is important. Themes are not emerging but are actively generated, created and constructed.
 
-Further reading -> [[Thematic Analysis]]
+Further reading -> [Thematic Analysis](output/Thematic%20Analysis.md)
 
 After not finding the hoped-for weak signals of animist practice in the field work, the thematic analysis concentrated mainly on aspects of communication. I developed six themes all in all, 4 of which I pursued further. The themes mainly circled around issues of unnatural communication as well as trust and privacy issues. Three of them concerned the different main actants or stakeholders, the users, the devices and the brands behind the devices. The fourth theme concentrated on the communication and behavior between these three parties.
 
 ---
 
-*[[Conditioning the User]]*
+*[Conditioning the User](output/themes/Conditioning%20the%20User.md)*
 Despite being a natural way of interaction, the user still need to heavily adapt speech and behavior in favor of the machine.
 
-*[[What is a voice assistant]]*
+*[What is a voice assistant](output/themes/What%20is%20a%20voice%20assistant.md)*
 Users are often not very sure what a voice assistant actually is, or how to address or behave towards it.
 
-*[[Questions of scale]]*
+*[Questions of scale](output/themes/Questions%20of%20scale.md)*
 Most users are aware, that it is only a minuscule part of a gigantic, planet-spanning infrastructure. Though they hardly ever can imagine the true size of it. And that there is always a companies intention behind them.
 
-*[[Communication, Language and Behavior]]*
+*[Communication, Language and Behavior](output/themes/Communication,%20Language%20and%20Behavior.md)*
 It could be argued, that all technologies need the user to adapt to them in a certain way. That is not necessarily a natural, given thing. In the case of voice assistants we sometimes have to go extrem ways to accomodate this technology.
 
 ---
@@ -84,23 +84,23 @@ I had two threads built into the workshop. The first was about bringing the diff
 
 In the final exercise I asked the participants to speculate about how our relationship to voice assistants looks like in the next 15 to 20 years and write a story or text about that and further, to tell this story. I found the stories and their content extremely inspiring and they took up a few very valid point on how to go forward. Nonetheless, a clear path was not visible. The hope-for prototypes didn't emerge. 
 
-Further reading -> [[Evaluation of Expert Workshop]]
+Further reading -> [Evaluation of Expert Workshop](journal/Evaluation%20of%20Expert%20Workshop.md)
 
 What came after was nothing short of an existential crisis towards the project, it's focus and goals. I ruminated on that in
 
-- [[Crossroads and Conjunctions]]
-- [[Post-Animism Phase]]
+- [Crossroads and Conjunctions](journal/Crossroads%20and%20Conjunctions.md)
+- [Post-Animism Phase](journal/Post-Animism%20Phase.md)
 
 The basic problem was, if it is not about animism, what is it then? And what do I actually want to do?
 
 With the help of my coach I started a reflectory process in which I attempted to reframe the project. I needed to continue were I left of, but change the questions and hypothesis drastically. This was not very easy for me, as the subject of animism is dear to me and I wanted to have it in the focus. It is a personal project linked to my past. Another problem was also, that the project was tied up in accomodating a future PhD which added layers of complexity to this process.
 
-A first draft went into the direction of using voice assistants, or digital assistans per se, in the application of therapy as supporting tools. A draft for that can be found in [[Digital Companions in Therapeutic Settings]]. This outline was welcomed by my coach and peers. It made sense. After further introspection and talks with experts I needed to be honest about it. Working this direction would have made sense as a new project, but jump into it that late, without having any experience in the field wasn't working out. I also got advised that there are many institutions and companies with quite enough money already on track with this. A brief research over the landscape of available apps confirmed that.
+A first draft went into the direction of using voice assistants, or digital assistans per se, in the application of therapy as supporting tools. A draft for that can be found in [Digital Companions in Therapeutic Settings](journal/Digital%20Companions%20in%20Therapeutic%20Settings.md). This outline was welcomed by my coach and peers. It made sense. After further introspection and talks with experts I needed to be honest about it. Working this direction would have made sense as a new project, but jump into it that late, without having any experience in the field wasn't working out. I also got advised that there are many institutions and companies with quite enough money already on track with this. A brief research over the landscape of available apps confirmed that.
 
 Luckily I started to read *Relating to Things*, a book on technology like voice assistants, thought about through a post-penomenological lense. If phenomenology is concerned about how our perception builds our understanding of the world, post-phenomenology is concerned with how technology mediates that perception. If the former is interested in how you see things, the later is interested in your glases.
 
 One chapter is focusing on issues of privacy, which can be remated as intimacy from a user perspective. I found this link quite fitting, as I encountered it in my field research quite a bit. I also saw a possible way forward in experimenting with the two frameworks of Betti Marenko and Jonathan Chapman to investigate and better the experience the interaction between user and voice assistant.
 
-I outlined a draft for this approach here [[Negotiating Privacy with Voice Assistants]].
+I outlined a draft for this approach here [Negotiating Privacy with Voice Assistants](output/Negotiating%20Privacy%20with%20Voice%20Assistants.md).
 
 The possed problem seemed singular enough to be researched through a prototypial approach, but also expandable into more questions. That's were I am right now. As for the moment I started with building up the development plattform, with which I can setup up experiments.

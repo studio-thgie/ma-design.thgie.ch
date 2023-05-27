@@ -3,7 +3,7 @@
 
 Actor-network theory treats non-human objects and things, such as doorknobs, keys, tables, the weather, electricity, ferns, sandwiches, cockroaches, bookcovers, elevator buttons, port standards, APIs and others as actants within socio-material networks.
 
-Is related to [[Ontological design]] and [[New Materialism]].
+Is related to [Ontological design](research/glossary/Ontological%20design.md) and [New Materialism](research/glossary/New%20Materialism.md).
 
 ## Sources
 - [http://www.bruno-latour.fr/node/70.html](http://www.bruno-latour.fr/node/70.html)

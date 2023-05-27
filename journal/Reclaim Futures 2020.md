@@ -18,7 +18,7 @@ The talk was pre-recorded and I took the chance to produce a small experimental 
 
 ### [things are people too - video](https://file-zudedy.cyon.net/f/b699a31cb9a3482aa188/)
 
-### [[things are people too - transkript]]
+### [things are people too - transkript](output/dissemination/things%20are%20people%20too%20-%20transkript.md)
 
 ### [Abstract](https://reclaimfutures.org/rf2020/events/things-are-people-too.html)
 > “Animism had endowed things with souls; industrialism makes souls into things.” - Max Horkheimer and Theodor Adorno

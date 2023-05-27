@@ -1,7 +1,7 @@
 # Voice-Assistant Extended
 *Conducted in Swiss-German*
 
-With [[Person 9ASqQv]]
+With [Person 9ASqQv](data/people/Person%209ASqQv.md)
 
 Leider hatte die Aufnahme nicht funktioniert und deshalb kann ich hier nur noch die fragmentarischen Notizen wiedergeben
 

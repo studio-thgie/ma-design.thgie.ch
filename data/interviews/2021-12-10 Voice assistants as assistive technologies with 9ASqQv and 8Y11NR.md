@@ -1,6 +1,6 @@
 # Voice assistants as assistive technologies
 
-With [[Person 9ASqQv]] and [[Person 8Y11NR]]
+With [Person 9ASqQv](data/people/Person%209ASqQv.md) and [Person 8Y11NR](data/people/Person%208Y11NR.md)
 
 Dies war ein Folgeinterview mit dem Schweizerischen Blindenverband, welches wie beim ersten Mal nicht aufzeichenbar war. Grundlegend ging es um die Ähnlichkeiten aber auch Differenzen zwischen eher traditionellen Hilfstechnologien und Sprachassistenten.
 

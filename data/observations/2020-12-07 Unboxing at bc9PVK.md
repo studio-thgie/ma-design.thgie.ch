@@ -1,11 +1,11 @@
 # Unboxing
 *2020-12-07*
 
-[[Person bc9PVK]]
-Photos: [[2020-12-07 Photos of Unboxing at bc9PVK]]
-Scenario: [[Unboxing the Voice Assistants]]
+[Person bc9PVK](data/people/Person%20bc9PVK.md)
+Photos: [2020-12-07 Photos of Unboxing at bc9PVK](data/photos/2020-12-07%20Photos%20of%20Unboxing%20at%20bc9PVK.md)
+Scenario: [Unboxing the Voice Assistants](research/designs/Unboxing%20the%20Voice%20Assistants.md)
 
-[[Participatory Observations]] #observation
+[Participatory Observations](data/Participatory%20Observations.md) #observation
 
 ---
 

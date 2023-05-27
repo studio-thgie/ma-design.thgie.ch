@@ -1,6 +1,6 @@
 # device as receiver
 The device is experienced as receiver for a larger system
 
-[[What is a voice assistant]], [[Questions of Scale]]
+[What is a voice assistant](output/themes/What%20is%20a%20voice%20assistant.md), [Questions of scale](output/themes/Questions%20of%20scale.md)
 
-#code [[Codes]]
+#code [Codes](output/codes/Codes.md)

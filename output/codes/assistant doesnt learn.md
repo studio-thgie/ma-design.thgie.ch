@@ -1,6 +1,6 @@
 # assistant doesn't learn
 It is expected, that the assistant learns through the interaction with the user.
 
-[[Communication, Language and Behavior]], [[What is a voice assistant]], [[What is a voice assistant]]
+[Communication, Language and Behavior](output/themes/Communication,%20Language%20and%20Behavior.md), [What is a voice assistant](output/themes/What%20is%20a%20voice%20assistant.md), [What is a voice assistant](output/themes/What%20is%20a%20voice%20assistant.md)
 
-#code [[Codes]] 
+#code [Codes](output/codes/Codes.md) 

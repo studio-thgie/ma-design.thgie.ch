@@ -1,5 +1,5 @@
 # offloading mental tasks
 
-[[Knowledge Practices]]
+[Knowledge Practices](output/themes/Knowledge%20Practices.md)
 
-#code [[Codes]]
+#code [Codes](output/codes/Codes.md)

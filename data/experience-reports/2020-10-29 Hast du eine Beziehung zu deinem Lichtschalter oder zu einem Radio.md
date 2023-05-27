@@ -21,4 +21,4 @@ Nachhaltigkeit steht bei mir übrigens auch relativ hoch im Kurs, ich benutze Ge
 Zum Thema Reparatur: wenn es eine Kleinigkeit ist, die ich selbst beheben kann, dann wird sie behoben. Wenn nicht, wie soll man denn den Aufwand rechtfertigen, einen Echo-Dot z.B., der im Angebot bei Amazon schon für unter 20€ zu haben ist, noch zu reparieren?
 
 ## Themes
-[[Relationships]] [[Crititque]]
+[Relationships](Relationships) [Crititque](Crititque)

@@ -8,7 +8,7 @@ tags:
     - review
 ---
 # Prototyping I
-Ausgehend von der [[Thematic Analysis]] vor dem zweiten Colloquium wollte ich im letzten Semester erste Entwicklungen mit den eigenen Ansätzen bezüglich Sprachassistenten umsetzen. Dazu galt es einerseits eine Entwicklungsumgebung (Tech Stack) aufzubauen, welche Rapid Prototyping erlaubt und andererseits zu definieren, wie diese ersten Prototypen genau zu funktionieren haben und wie sie testbar werden. Parallele Entwicklungen [[Vorbereitung und Zusammenfassung Gedanken für C3|bezüglich der Erkundung der sozialen/Relevanz]] haben den Prototypen dann noch einen zusätzlichen Dreh gegeben.
+Ausgehend von der [Thematic Analysis](output/Thematic%20Analysis.md) vor dem zweiten Colloquium wollte ich im letzten Semester erste Entwicklungen mit den eigenen Ansätzen bezüglich Sprachassistenten umsetzen. Dazu galt es einerseits eine Entwicklungsumgebung (Tech Stack) aufzubauen, welche Rapid Prototyping erlaubt und andererseits zu definieren, wie diese ersten Prototypen genau zu funktionieren haben und wie sie testbar werden. Parallele Entwicklungen [bezüglich der Erkundung der sozialen/Relevanz](Vorbereitung%20und%20Zusammenfassung%20Gedanken%20f%C3%BCr%20C3) haben den Prototypen dann noch einen zusätzlichen Dreh gegeben.
 
 ## Prototypes
 Folge Prototypen konnten umgesetzt werden.
@@ -33,7 +33,7 @@ ELIZA war ein von Joseph Weizenbaum entworfenes Chatprogram, welches entlang der
 
 ### Memory Holders
 *artyom.js*
-Ausgehend aus einem nicht verfolgtem Thema der thematischen Analyse, [[Knowledge Practices]], wollte ich einen Sprachassistenten testen, welcher sich Praxen rund um Wissen oder zumindest Notizen fokusiert. In diesem Test lässt sich in einem Dialog mit dem Sprachassistenten treten und er speichert forlaufend alles gesagte und spiegelt es wieder.
+Ausgehend aus einem nicht verfolgtem Thema der thematischen Analyse, [Knowledge Practices](output/themes/Knowledge%20Practices.md), wollte ich einen Sprachassistenten testen, welcher sich Praxen rund um Wissen oder zumindest Notizen fokusiert. In diesem Test lässt sich in einem Dialog mit dem Sprachassistenten treten und er speichert forlaufend alles gesagte und spiegelt es wieder.
 
 ![Code](/assets/images/thumbs/Screenshot_2021-10-24_at_11.11.50.png)
 
