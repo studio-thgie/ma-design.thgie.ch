@@ -1,7 +1,7 @@
 ---
-title: "Teilnehmer*innen"
+title: "Teilnehmer_innen"
 date: "2020-10-22"
-description: "Ich suche nun seit drei Wochen nach Teilnehmer*innen und werde nicht wirklich fündig. Partizipanden für ein Forschungsprojekt zu suchen ist nicht einfach..."
+description: "Ich suche nun seit drei Wochen nach Teilnehmer_innen und werde nicht wirklich fündig. Partizipanden für ein Forschungsprojekt zu suchen ist nicht einfach..."
 tags:
     - doing-research
     - participants
