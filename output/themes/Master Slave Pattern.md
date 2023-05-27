@@ -1,3 +1,0 @@
-# Master Slave Pattern
-
-#theme

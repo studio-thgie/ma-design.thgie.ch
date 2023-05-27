@@ -1,6 +1,0 @@
-# artificial communication
-The communication with the assistant doesn't seem real.
-
-[Communication, Language and Behavior](output/themes/Communication,%20Language%20and%20Behavior.md)
-
-#code [Codes](output/codes/Codes.md)

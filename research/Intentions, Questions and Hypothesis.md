@@ -1,1 +1,0 @@
-# Intentions, Questions and Hypothesis

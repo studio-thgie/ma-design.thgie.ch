@@ -1,3 +1,0 @@
-# Knowledge Practices
-
-#theme
