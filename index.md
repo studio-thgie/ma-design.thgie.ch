@@ -13,6 +13,6 @@ This research project is about exploring the potential of voice assistant techno
 
 ---
 
-*This is the ever expanding project documentation and archive of a research project by [Adrian Demleitner](https://thgie.ch) within the [Master of Design](https://www.hkb-ma-design.ch/en/home-118.html) at the HKB in Bern, Switzerland. It contains the data points, the coding and analysis of these, the theoretical base as well as context and the research log.*
+*This is the ~~ever expanding~~ project documentation and archive of a research project by [Adrian Demleitner](https://thgie.ch) within the [Master of Design](https://www.hkb-ma-design.ch/en/home-118.html) at the HKB in Bern, Switzerland. It contains the data points, the coding and analysis of these, the theoretical base as well as context and the research log.*
 
 This archive is mirrored on the github repository [thgie/Talking-to-Things](https://github.com/thgie/Talking-to-Things).
